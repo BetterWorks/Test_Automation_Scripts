@@ -1,0 +1,10 @@
+email,feature,expected_lang,detected_lang,detected_text,status
+julia.smith16586@pharma.com,Feedback Writing Assist,de,de,"Dies ist ein längerer Beispielsatz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen.",✅ PASS
+alice.taylor33665@pharma.com,Feedback Writing Assist,en,en,This is a longer sample input intended to trigger the AI generation feature and help validate language detection capabilities.,✅ PASS
+george.wilson15124@pharma.com,Feedback Writing Assist,en,en,This is a longer sample input designed to trigger the AI generation feature and validate language detection capabilities.,✅ PASS
+hannah.taylor36586@pharma.com,Feedback Writing Assist,es,,,API ❌ ERROR
+george.brown26632@pharma.com,Feedback Writing Assist,es,,,API ❌ ERROR
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.,✅ PASS
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,Cette phrase est un exemple plus long destiné à activer l'IA et à vérifier la détection de la langue.,✅ PASS
+diana.wilson16900@pharma.com,Feedback Writing Assist,it,it,Questa è una frase di esempio più lunga che fornisce un contesto adeguato per attivare l'intelligenza artificiale e validare la lingua italiana.,✅ PASS
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,en,Your input contains offensive or harmful language. Please rephrase your request.,❌ FAIL

@@ -1,0 +1,4 @@
+source_reference,msgid,msgid_plural
+
+app/views/directives/modals/goalassistancemodal.html, New,
+app/views/directives/modals/goalassistancemodal.html, Cancel,

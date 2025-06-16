@@ -1,0 +1,28 @@
+name,type,parent
+Increase customer satisfaction score with faster support,goal,
+Improve product quality and reduce recurring software bugs,goal,
+Enhance onboarding experience for all new employees,goal,
+Develop a comprehensive employee training program,goal,
+Launch marketing campaign to boost Q4 revenue,goal,
+Reduce customer churn rate by at least ten percent,goal,
+Build a new mobile app for internal operations,goal,
+Increase website traffic using SEO and blog content,goal,
+Streamline the recruitment process for engineering roles,goal,
+Implement robust data backup and recovery strategy,goal,
+Optimize CI/CD pipeline for faster code delivery,goal,
+Generate monthly performance reports for leadership review,goal,
+Establish a remote work policy for global teams,goal,
+Drive cultural transformation through leadership workshops,goal,
+Launch beta version with core product features,milestone,Improve product quality and reduce recurring software bugs
+Conduct user interviews to validate feature ideas,milestone,Enhance onboarding experience for all new employees
+Finalize UI design and product documentation,milestone,Develop a comprehensive employee training program
+Track weekly user activity and engagement metrics,milestone,Increase website traffic using SEO and blog content
+Review legal compliance and regulatory requirements,milestone,Launch marketing campaign to boost Q4 revenue
+Publish blog post summarizing success metrics,milestone,Increase website traffic using SEO and blog content
+Create analytics dashboard for stakeholder visibility,milestone,Generate monthly performance reports for leadership review
+Host feedback session with internal stakeholders,milestone,Drive cultural transformation through leadership workshops
+Setup project repository and CI/CD pipelines,milestone,Optimize CI/CD pipeline for faster code delivery
+Document all APIs with examples and standards,milestone,Develop a comprehensive employee training program
+Train support team on updated product workflows,milestone,Build a new mobile app for internal operations
+Validate user feedback with in-app surveys,milestone,Increase customer satisfaction score with faster support
+Perform load testing in staging environment,milestone,Optimize CI/CD pipeline for faster code delivery

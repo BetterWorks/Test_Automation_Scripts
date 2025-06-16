@@ -1,0 +1,49 @@
+email,feature,expected_lang,supported,detected_lang,status,detected_text
+julia.davis36889@pharma.com,Conversation Assist,cs,False,cs,✅ PASS,
+julia.davis36889@pharma.com,Feedback Writing Assist,cs,False,,❌ ERROR,
+julia.smith16586@pharma.com,Conversation Assist,de,True,,❌ ERROR,
+julia.smith16586@pharma.com,Feedback Writing Assist,de,True,,✅ PASS,"Dies ist ein längerer Beispielsatz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen."
+alice.taylor33665@pharma.com,Conversation Assist,en,True,en,✅ PASS,
+alice.taylor33665@pharma.com,Feedback Writing Assist,en,True,,✅ PASS,Your input contains offensive or harmful language. Please rephrase your request.
+george.wilson15124@pharma.com,Conversation Assist,en_GB,True,en,❌ FAIL,
+george.wilson15124@pharma.com,Feedback Writing Assist,en_GB,True,,❌ FAIL,This is a longer sample input intended to test the AI generation feature and validate language detection capabilities.
+hannah.taylor36586@pharma.com,Conversation Assist,es,True,es,✅ PASS,
+hannah.taylor36586@pharma.com,Feedback Writing Assist,es,True,,❌ ERROR,
+george.brown26632@pharma.com,Conversation Assist,es_419,True,es,❌ FAIL,
+george.brown26632@pharma.com,Feedback Writing Assist,es_419,True,,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+ethan.brown38046@pharma.com,Conversation Assist,fr_CA,True,fr,❌ FAIL,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr_CA,True,,❌ FAIL,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+charlie.wilson19844@pharma.com,Conversation Assist,fr_FR,True,fr,❌ FAIL,
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr_FR,True,,❌ ERROR,
+charlie.miller34690@pharma.com,Conversation Assist,hr,False,,❌ ERROR,
+charlie.miller34690@pharma.com,Feedback Writing Assist,hr,False,,✅ PASS,Your input contains offensive or harmful language. Please rephrase your request.
+diana.wilson16900@pharma.com,Conversation Assist,it,True,,❌ ERROR,
+diana.wilson16900@pharma.com,Feedback Writing Assist,it,True,,❌ FAIL,Questa è una frase di esempio più lunga che fornisce un contesto adeguato per attivare l'intelligenza artificiale e validare la lingua utilizzata.
+bob.moore10704@pharma.com,Conversation Assist,ja,False,ja,✅ PASS,
+bob.moore10704@pharma.com,Feedback Writing Assist,ja,False,,❌ FAIL,この文は、AIを起動し、言語検出を検証するための十分なコンテキストを提供する長いサンプル文です。
+fiona.johnson32836@pharma.com,Conversation Assist,ko,False,ko,✅ PASS,
+fiona.johnson32836@pharma.com,Feedback Writing Assist,ko,False,,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+george.smith36555@pharma.com,Conversation Assist,nl,False,,❌ ERROR,
+george.smith36555@pharma.com,Feedback Writing Assist,nl,False,,❌ ERROR,
+ian.miller15383@pharma.com,Conversation Assist,pl_PL,False,,❌ ERROR,
+ian.miller15383@pharma.com,Feedback Writing Assist,pl_PL,False,,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+george.taylor15272@pharma.com,Conversation Assist,pt_BR,True,,❌ ERROR,
+george.taylor15272@pharma.com,Feedback Writing Assist,pt_BR,True,,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+ethan.moore29786@pharma.com,Conversation Assist,ro,False,ro,✅ PASS,
+ethan.moore29786@pharma.com,Feedback Writing Assist,ro,False,,❌ ERROR,
+diana.johnson13823@pharma.com,Conversation Assist,ru,False,,❌ ERROR,
+diana.johnson13823@pharma.com,Feedback Writing Assist,ru,False,,❌ ERROR,
+charlie.davis17727@pharma.com,Conversation Assist,sk,False,sk,✅ PASS,
+charlie.davis17727@pharma.com,Feedback Writing Assist,sk,False,,✅ PASS,"Táto je dlhšia ukážková veta, ktorá poskytuje dostatočný kontext pre spustenie AI a overenie rozpoznania jazyka."
+ian.taylor6610@pharma.com,Conversation Assist,sv,False,,❌ ERROR,
+ian.taylor6610@pharma.com,Feedback Writing Assist,sv,False,,❌ FAIL,Detta är en längre exempelmening som ger tillräckligt med sammanhang för att aktivera AI och validera språkigenkänning.
+bob.moore24656@pharma.com,Conversation Assist,th,False,th,✅ PASS,
+bob.moore24656@pharma.com,Feedback Writing Assist,th,False,,❌ ERROR,
+alice.miller25005@pharma.com,Conversation Assist,tr,False,,❌ ERROR,
+alice.miller25005@pharma.com,Feedback Writing Assist,tr,False,,❌ FAIL,"Bu, yapay zekayı tetiklemek ve dil tanıma yeteneklerini doğrulamak için daha uzun bir örnek cümledir."
+fiona.johnson5529@pharma.com,Conversation Assist,vi,False,,❌ ERROR,
+fiona.johnson5529@pharma.com,Feedback Writing Assist,vi,False,,❌ FAIL,"Đây là một ví dụ dài hơn, cung cấp đủ ngữ cảnh để kích hoạt trí tuệ nhân tạo và xác minh ngôn ngữ được phát hiện."
+charlie.wilson10460@pharma.com,Conversation Assist,zh-Hans,False,,❌ ERROR,
+charlie.wilson10460@pharma.com,Feedback Writing Assist,zh-Hans,False,,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+fiona.thomas16815@pharma.com,Conversation Assist,zh-Hant,False,ko,❌ FAIL,
+fiona.thomas16815@pharma.com,Feedback Writing Assist,zh-Hant,False,,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.

@@ -1,0 +1,55 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+julia.smith16586@pharma.com,Conversation Assist,de,de,✅ PASS,"KI-Assistent: Antwort verbessern 
+Dies ist ein längerer Beispiel-Satz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen.
+NEU GENERIEREN
+ANWENDEN
+
+Warum sollte dieser Vorschlag befolgt werden?
+
+Die kleine Anpassung des Wortes 'Beispielsatz' zu 'Beispiel-Satz' verbessert die Lesbarkeit und den Fluss des Textes."
+alice.taylor33665@pharma.com,Conversation Assist,en,en,✅ PASS,"AI Assist: Improve Response 
+This is a longer sample input intended to test the AI generation feature and validate language detection capabilities.
+REGENERATE
+APPLY
+
+Why apply this suggestion?
+
+Minor adjustments were made to ensure the input adheres to the provided instructions, including correcting punctuation and minor wording for clarity and grammar."
+george.wilson15124@pharma.com,Conversation Assist,en_GB,en,❌ FAIL,"AI Assist: Improve Response 
+This is a longer sample input intended to test the AI generation feature and validate language detection capabilities.
+REGENERATE
+APPLY
+
+Why apply this suggestion?
+
+Minor adjustments to sentence structure for improved clarity and concision, while maintaining the original meaning."
+hannah.taylor36586@pharma.com,Conversation Assist,es,es,✅ PASS,"Asistente de IA: Mejorar respuesta 
+Esta es una oración de ejemplo más larga que brinda suficiente contexto para activar la inteligencia artificial y verificar el idioma.
+VOLVER A GENERAR
+APLICAR
+
+¿Por qué aplicar esta sugerencia?
+
+Se ajustó el vocabulario para mantener una sintaxis correcta y adecuada en español."
+george.brown26632@pharma.com,Conversation Assist,es_419,es,❌ FAIL,"Asistente de IA: Mejorar respuesta 
+ Se ha producido un error. Vuelva a intentarlo."
+ethan.brown38046@pharma.com,Conversation Assist,fr_CA,fr,❌ FAIL,"Assistance IA: Améliorer la qualité des réponses 
+Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester sa capacité à comprendre le langage.
+GÉNÉRER À NOUVEAU
+APPLIQUER
+
+Pourquoi appliquer cette suggestion?
+
+J'ai corrigé 'langue' en 'capacité à comprendre le langage' pour rendre le texte plus précis et clair."
+charlie.wilson19844@pharma.com,Conversation Assist,fr_FR,fr,❌ FAIL,"Assistance IA: Améliorer la qualité des réponses 
+Cette phrase est un exemple plus long destiné à déclencher l'IA et à valider la détection de la langue.
+GÉNÉRER À NOUVEAU
+APPLIQUER
+
+Pourquoi appliquer cette suggestion ?
+
+L'amélioration du langage et de la clarté de la phrase sans changer son sens ou son contenu."
+diana.wilson16900@pharma.com,Conversation Assist,it,it,✅ PASS,"Assistente AI: Migliora la risposta 
+ Si è verificato un errore. Riprova."
+george.taylor15272@pharma.com,Conversation Assist,pt_BR,pt,❌ FAIL,"Assistência à IA: Melhorar resposta 
+ Ocorreu um erro, tente novamente."

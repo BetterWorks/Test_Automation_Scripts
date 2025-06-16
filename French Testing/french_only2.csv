@@ -1,0 +1,111 @@
+email,feature,expected_lang,status,detected_lang,detected_text
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 100000ms exceeded.
+Call log:
+  - waiting for locator(""loading-indicator"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,✅ PASS,fr,"Pour vérifier la reconnaissance linguistique, ce message contient des expressions typiques du français canadien."
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,✅ PASS,fr,Nous voulons activer l'intelligence artificielle avec cette phrase écrite en français canadien.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""button[data-ptor='give-feedback-adhoc-modal-start-btn']"")
+  -     - locator resolved to <button translate="""" type=""button"" disabled=""disabled"" class=""btn btn-primary"" ng-click=""giveAdhocFeedbackCreateModal.ask()"" data-ptor=""give-feedback-adhoc-modal-start-btn"" ng-disabled=""!giveAdhocFeedbackCreateModal.selectedTemplate"">Créer</button>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not enabled
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not enabled
+  -     - retrying click action
+  -       - waiting 100ms
+  -     58 × waiting for element to be visible, enabled and stable
+  -        - element is not enabled
+  -      - retrying click action
+  -        - waiting 500ms
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,✅ PASS,fr,L'objectif est de mettre en place l'intelligence artificielle à l'aide d'un texte québécois clair.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.goto: Navigation to ""https://rainforest.betterworks.com/app/#/feedback/give"" is interrupted by another navigation to ""https://rainforest.betterworks.com/app/#/""
+Call log:
+  - navigating to ""https://rainforest.betterworks.com/app/#/feedback/give"", waiting until ""load""
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""button[data-ptor='give-feedback-adhoc-modal-start-btn']"")
+  -     - locator resolved to <button translate="""" type=""button"" disabled=""disabled"" class=""btn btn-primary"" ng-click=""giveAdhocFeedbackCreateModal.ask()"" data-ptor=""give-feedback-adhoc-modal-start-btn"" ng-disabled=""!giveAdhocFeedbackCreateModal.selectedTemplate"">Créer</button>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not enabled
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not enabled
+  -     - retrying click action
+  -       - waiting 100ms
+  -     58 × waiting for element to be visible, enabled and stable
+  -        - element is not enabled
+  -      - retrying click action
+  -        - waiting 500ms
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,✅ PASS,fr,Exemple de texte français utilisé pour activer les réponses basées sur l'intelligence artificielle.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,API ❌ ERROR,unknown,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""button[data-ptor='give-feedback-adhoc-modal-start-btn']"")
+  -     - locator resolved to <button translate="""" type=""button"" disabled=""disabled"" class=""btn btn-primary"" ng-click=""giveAdhocFeedbackCreateModal.ask()"" data-ptor=""give-feedback-adhoc-modal-start-btn"" ng-disabled=""!giveAdhocFeedbackCreateModal.selectedTemplate"">Créer</button>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not enabled
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not enabled
+  -     - retrying click action
+  -       - waiting 100ms
+  -     58 × waiting for element to be visible, enabled and stable
+  -        - element is not enabled
+  -      - retrying click action
+  -        - waiting 500ms
+"

@@ -1,0 +1,28 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+julia.davis36889@pharma.com,Feedback Writing Assist,cs,cs,✅ PASS,"Toto je ukázková věta, která obsahuje dostatečný objem textu pro aktivaci umělé inteligence a ověření jazykového rozpoznání."
+julia.smith16586@pharma.com,Feedback Writing Assist,de,de,✅ PASS,"Dies ist ein Beispiel für einen längeren Satz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen."
+alice.taylor33665@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to trigger the AI generation feature and help validate language detection capabilities.
+george.wilson15124@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to trigger the AI generation feature and help validate language detection capabilities.
+hannah.taylor36586@pharma.com,Feedback Writing Assist,es,unknown,API ❌ ERROR,"Error in generating response, please try again"
+george.brown26632@pharma.com,Feedback Writing Assist,es,unknown,API ❌ ERROR,"Error in generating response, please try again"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester sa capacité à comprendre la langue.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ceci est une phrase d'exemple qui est plus longue et destinée à tester l'IA et à valider la détection de la langue.
+charlie.miller34690@pharma.com,Feedback Writing Assist,hr,unknown,API ❌ ERROR,Triton Inference Server is unavailable.
+diana.wilson16900@pharma.com,Feedback Writing Assist,it,unknown,API ❌ ERROR,Triton Inference Server is unavailable.
+bob.moore10704@pharma.com,Feedback Writing Assist,ja,unknown,API ❌ ERROR,no suggestion or Error
+fiona.johnson32836@pharma.com,Feedback Writing Assist,ko,ko,✅ PASS,이것은 인공지능을 활성화하고 언어 감지를 확인하는 데 충분한 맥락을 제공하는 긴 문장입니다.
+george.smith36555@pharma.com,Feedback Writing Assist,nl,nl,✅ PASS,Dit is een langere zin die voldoet aan de vereiste context om de AI te activeren en de taalherkenning te testen.
+ian.miller15383@pharma.com,Feedback Writing Assist,pl,pl,✅ PASS,"To jest dłuższe zdanie, które zapewnia wystarczający kontekst do uruchomienia modelu AI i sprawdzenia jego rozpoznania języka."
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+ethan.moore29786@pharma.com,Feedback Writing Assist,ro,unknown,API ❌ ERROR,Triton Inference Server is unavailable.
+diana.johnson13823@pharma.com,Feedback Writing Assist,ru,unknown,API ❌ ERROR,"Error in generating response, please try again"
+charlie.davis17727@pharma.com,Feedback Writing Assist,sk,unknown,API ❌ ERROR,Triton Inference Server is unavailable.
+ian.taylor6610@pharma.com,Feedback Writing Assist,sv,sv,✅ PASS,Detta är en längre exempelmening som ger tillräckligt med sammanhang för att aktivera AI och validera språkigenkänningen.
+bob.moore24656@pharma.com,Feedback Writing Assist,th,unknown,💥 Critical Error,"Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to ""https://rainforest.betterworks.com/app/#/feedback/give"", waiting until ""load""
+"
+alice.miller25005@pharma.com,Feedback Writing Assist,tr,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+fiona.johnson5529@pharma.com,Feedback Writing Assist,vi,vi,✅ PASS,"Đây là một ví dụ dài hơn, cung cấp đủ ngữ cảnh để kích hoạt trí tuệ nhân tạo và xác minh ngôn ngữ được phát hiện."
+charlie.wilson10460@pharma.com,Feedback Writing Assist,zh-Hans,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+fiona.thomas16815@pharma.com,Feedback Writing Assist,zh-Hant,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.

@@ -1,0 +1,127 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+  -     - waiting for"" https://rainforest.betterworks.com/app/"" navigation to finish...
+  -     - navigated to ""https://rainforest.betterworks.com/app/#/feedback/give""
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,"Pour vérifier la reconnaissance linguistique, ce message utilise des expressions typiques du français canadien."
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Nous souhaitons activer l'IA avec cette phrase écrite en français canadien.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce contenu long et contextuel doit initier les processus d'intelligence artificielle adaptés à la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Cette phrase est un exemple plus long destinée à activer l'IA et à vérifier la détection de la langue.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Nous évaluons ici un extrait plus riche en vocabulaire pour une détection précise.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce passage est rédigé pour refléter les caractéristiques du français parlé en France.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase d'exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,"Pour évaluer la reconnaissance linguistique, ce message utilise des expressions typiques du français canadien."
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Nous aimerions initier l'IA avec cette phrase rédigée en français canadien.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Une phrase typiquement française qui devrait être correctement identifiée par l'intelligence artificielle.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,❌ FAIL (Exception),"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""span.select2-choice.select2-default"")
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Un contenu en français métropolitain destiné à tester les capacités de l'algorithme.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"

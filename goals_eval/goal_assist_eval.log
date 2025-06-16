@@ -1,0 +1,407 @@
+2025-05-20 19:25:34,912 [INFO] [1] Processing GOAL - Increase customer satisfaction score with parent: []
+2025-05-20 19:25:39,849 [INFO] [1] ✅ Goal Assist output received.
+2025-05-20 19:25:47,075 [INFO] [1] ✅ PASS
+2025-05-20 19:25:47,095 [INFO] [2] Processing GOAL - Improve product quality and reduce bugs with parent: []
+2025-05-20 19:28:48,010 [ERROR] [2] ❌ Error occurred: 504 Server Error: Gateway Time-out for url: https://rainforest.betterworks.com/accelerators/llm/goal-writing-assist
+2025-05-20 19:28:48,013 [INFO] [3] Processing GOAL - Enhance onboarding experience for new employees with parent: []
+2025-05-20 19:31:49,030 [ERROR] [3] ❌ Error occurred: 504 Server Error: Gateway Time-out for url: https://rainforest.betterworks.com/accelerators/llm/goal-writing-assist
+2025-05-20 19:31:49,033 [INFO] [4] Processing GOAL - Develop a new employee training program with parent: []
+2025-05-20 19:34:50,197 [ERROR] [4] ❌ Error occurred: 504 Server Error: Gateway Time-out for url: https://rainforest.betterworks.com/accelerators/llm/goal-writing-assist
+2025-05-20 19:34:50,199 [INFO] [5] Processing GOAL - Launch marketing campaign for Q4 with parent: []
+2025-05-20 19:35:57,658 [INFO] [5] ✅ Goal Assist output received.
+2025-05-20 19:36:03,622 [INFO] [5] ✅ PASS
+2025-05-20 19:36:03,623 [INFO] [6] Processing GOAL - Reduce churn rate by 10 percent with parent: []
+2025-05-20 19:37:08,649 [INFO] [6] ✅ Goal Assist output received.
+2025-05-20 19:37:14,436 [INFO] [6] ✅ PASS
+2025-05-20 19:37:14,437 [INFO] [7] Processing GOAL - Build mobile app for internal use with parent: []
+2025-05-20 19:37:24,488 [INFO] [7] ✅ Goal Assist output received.
+2025-05-20 19:37:30,789 [INFO] [7] ✅ PASS
+2025-05-20 19:37:30,791 [INFO] [8] Processing GOAL - Increase website traffic organically with parent: []
+2025-05-20 19:37:41,552 [INFO] [8] ✅ Goal Assist output received.
+2025-05-20 19:37:46,962 [INFO] [8] ✅ PASS
+2025-05-20 19:37:46,964 [INFO] [9] Processing GOAL - Streamline the recruitment process with parent: []
+2025-05-20 19:38:55,592 [INFO] [9] ✅ Goal Assist output received.
+2025-05-20 19:39:04,822 [INFO] [9] ✅ PASS
+2025-05-20 19:39:04,823 [INFO] [10] Processing GOAL - Implement data backup strategy with parent: []
+2025-05-20 19:39:10,074 [INFO] [10] ✅ Goal Assist output received.
+2025-05-20 19:39:14,228 [INFO] [10] ✅ PASS
+2025-05-20 19:39:14,230 [INFO] [11] Processing GOAL - Improve with parent: []
+2025-05-20 19:39:18,773 [INFO] [11] ✅ Goal Assist output received.
+2025-05-20 19:39:24,768 [WARNING] [11] ⚠️ FAIL
+2025-05-20 19:39:24,770 [INFO] [12] Processing GOAL - Improve customer experience with timely updates and frequent communication across departments with parent: []
+2025-05-20 19:39:30,237 [INFO] [12] ✅ Goal Assist output received.
+2025-05-20 19:39:34,478 [INFO] [12] ✅ PASS
+2025-05-20 19:39:34,479 [INFO] [13] Processing GOAL - Customer satisfaction increase with parent: []
+2025-05-20 19:39:40,475 [INFO] [13] ✅ Goal Assist output received.
+2025-05-20 19:39:47,202 [INFO] [13] ✅ PASS
+2025-05-20 19:39:47,204 [INFO] [14] Processing GOAL - Productivity enhancement with parent: []
+2025-05-20 19:39:53,089 [INFO] [14] ✅ Goal Assist output received.
+2025-05-20 19:39:58,662 [INFO] [14] ✅ PASS
+2025-05-20 19:39:58,663 [INFO] [15] Processing GOAL - Define a goal that is meaningful and fits in the given word count and also makes sense to the user reading it with parent: []
+2025-05-20 19:40:04,855 [INFO] [15] ✅ Goal Assist output received.
+2025-05-20 19:40:11,175 [INFO] [15] ✅ PASS
+2025-05-20 19:40:11,177 [INFO] [16] Processing GOAL - Start with parent: []
+2025-05-20 19:40:17,303 [INFO] [16] ✅ Goal Assist output received.
+2025-05-20 19:40:23,625 [INFO] [16] ✅ PASS
+2025-05-20 19:40:23,627 [INFO] [17] Processing GOAL - Finish project with parent: []
+2025-05-20 19:40:30,729 [INFO] [17] ✅ Goal Assist output received.
+2025-05-20 19:40:34,872 [INFO] [17] ✅ PASS
+2025-05-20 19:40:34,873 [INFO] [18] Processing GOAL - Goal without proper format with parent: []
+2025-05-20 19:40:41,469 [INFO] [18] ✅ Goal Assist output received.
+2025-05-20 19:40:47,532 [INFO] [18] ✅ PASS
+2025-05-20 19:40:47,533 [INFO] [19] Processing GOAL - Establish remote work policy with parent: []
+2025-05-20 19:40:57,691 [INFO] [19] ✅ Goal Assist output received.
+2025-05-20 19:41:03,310 [INFO] [19] ✅ PASS
+2025-05-20 19:41:03,312 [INFO] [20] Processing GOAL - Optimize CI pipeline with parent: []
+2025-05-20 19:41:11,721 [INFO] [20] ✅ Goal Assist output received.
+2025-05-20 19:41:18,963 [INFO] [20] ✅ PASS
+2025-05-20 19:41:18,966 [INFO] [21] Processing GOAL - Generate monthly reports with parent: []
+2025-05-20 19:41:27,395 [INFO] [21] ✅ Goal Assist output received.
+2025-05-20 19:41:34,006 [WARNING] [21] ⚠️ FAIL
+2025-05-20 19:41:34,008 [INFO] [22] Processing GOAL - Drive cultural transformation with parent: []
+2025-05-20 19:41:46,547 [INFO] [22] ✅ Goal Assist output received.
+2025-05-20 19:41:50,912 [INFO] [22] ✅ PASS
+2025-05-20 19:41:50,915 [INFO] [23] Processing MILESTONE - Conduct user research interviews with parent: [{'id': 'test', 'name': 'Increase customer satisfaction score', 'type': 'goal'}]
+2025-05-20 19:41:58,107 [INFO] [23] ✅ Goal Assist output received.
+2025-05-20 19:42:01,977 [INFO] [23] ✅ PASS
+2025-05-20 19:42:01,978 [INFO] [24] Processing MILESTONE - Launch beta version with core features with parent: [{'id': 'test', 'name': 'Improve product quality and reduce bugs', 'type': 'goal'}]
+2025-05-20 19:42:08,227 [INFO] [24] ✅ Goal Assist output received.
+2025-05-20 19:42:12,308 [INFO] [24] ✅ PASS
+2025-05-20 19:42:12,309 [INFO] [25] Processing MILESTONE - Track weekly user activity with parent: [{'id': 'test', 'name': 'Increase website traffic organically', 'type': 'goal'}]
+2025-05-20 19:42:17,161 [INFO] [25] ✅ Goal Assist output received.
+2025-05-20 19:42:20,339 [INFO] [25] ✅ PASS
+2025-05-20 19:42:20,340 [INFO] [26] Processing MILESTONE - Finalize UI design and documentation with parent: [{'id': 'test', 'name': 'Develop a new employee training program', 'type': 'goal'}]
+2025-05-20 19:42:25,314 [INFO] [26] ✅ Goal Assist output received.
+2025-05-20 19:42:31,553 [INFO] [26] ✅ PASS
+2025-05-20 19:42:31,555 [INFO] [27] Processing MILESTONE - Release version 1.0 with parent: [{'id': 'test', 'name': 'Build mobile app for internal use', 'type': 'goal'}]
+2025-05-20 19:42:36,607 [INFO] [27] ✅ Goal Assist output received.
+2025-05-20 19:42:44,054 [INFO] [27] ✅ PASS
+2025-05-20 19:42:44,055 [INFO] [28] Processing MILESTONE - Setup project repository and CI/CD with parent: [{'id': 'test', 'name': 'Implement data backup strategy', 'type': 'goal'}]
+2025-05-20 19:42:49,562 [INFO] [28] ✅ Goal Assist output received.
+2025-05-20 19:42:54,687 [INFO] [28] ✅ PASS
+2025-05-20 19:42:54,688 [INFO] [29] Processing MILESTONE - Publish blog post with success metrics with parent: [{'id': 'test', 'name': 'Launch marketing campaign for Q4', 'type': 'goal'}]
+2025-05-20 19:43:01,063 [INFO] [29] ✅ Goal Assist output received.
+2025-05-20 19:43:06,381 [INFO] [29] ✅ PASS
+2025-05-20 19:43:06,383 [INFO] [30] Processing MILESTONE - Create analytics dashboard with parent: [{'id': 'test', 'name': 'Streamline the recruitment process', 'type': 'goal'}]
+2025-05-20 19:43:12,696 [INFO] [30] ✅ Goal Assist output received.
+2025-05-20 19:43:18,377 [INFO] [30] ✅ PASS
+2025-05-20 19:43:18,379 [INFO] [31] Processing MILESTONE - Host stakeholder feedback session with parent: [{'id': 'test', 'name': 'Enhance onboarding experience for new employees', 'type': 'goal'}]
+2025-05-20 19:43:26,289 [INFO] [31] ✅ Goal Assist output received.
+2025-05-20 19:43:31,413 [INFO] [31] ✅ PASS
+2025-05-20 19:43:31,413 [INFO] [32] Processing MILESTONE - Review legal and compliance items with parent: [{'id': 'test', 'name': 'Drive cultural transformation', 'type': 'goal'}]
+2025-05-20 19:43:38,153 [INFO] [32] ✅ Goal Assist output received.
+2025-05-20 19:43:44,875 [INFO] [32] ✅ PASS
+2025-05-20 19:43:44,876 [INFO] [33] Processing MILESTONE - Milestone name with no action with parent: [{'id': 'test', 'name': 'Reduce churn rate by 10 percent', 'type': 'goal'}]
+2025-05-20 19:43:50,517 [INFO] [33] ✅ Goal Assist output received.
+2025-05-20 19:43:54,456 [INFO] [33] ✅ PASS
+2025-05-20 19:43:54,458 [INFO] [34] Processing MILESTONE - Review with parent: [{'id': 'test', 'name': 'Customer satisfaction increase', 'type': 'goal'}]
+2025-05-20 19:44:00,722 [INFO] [34] ✅ Goal Assist output received.
+2025-05-20 19:44:06,321 [INFO] [34] ✅ PASS
+2025-05-20 19:44:06,324 [INFO] [35] Processing MILESTONE - Just a milestone without context or metrics with parent: [{'id': 'test', 'name': 'Productivity enhancement', 'type': 'goal'}]
+2025-05-20 19:44:12,514 [INFO] [35] ✅ Goal Assist output received.
+2025-05-20 19:44:18,077 [INFO] [35] ✅ PASS
+2025-05-20 19:44:18,081 [INFO] [36] Processing MILESTONE - 123456 with parent: [{'id': 'test', 'name': 'Optimize CI pipeline', 'type': 'goal'}]
+2025-05-20 19:44:23,458 [INFO] [36] ✅ Goal Assist output received.
+2025-05-20 19:44:29,697 [WARNING] [36] ⚠️ FAIL
+2025-05-20 19:44:29,699 [INFO] [37] Processing MILESTONE - 🚀 Launch with parent: [{'id': 'test', 'name': 'Finish project', 'type': 'goal'}]
+2025-05-20 19:44:34,882 [INFO] [37] ✅ Goal Assist output received.
+2025-05-20 19:44:41,403 [WARNING] [37] ⚠️ FAIL
+2025-05-20 19:44:41,405 [INFO] [38] Processing MILESTONE - Reiterate and reiterate and reiterate the old steps again with parent: [{'id': 'test', 'name': 'Goal without proper format', 'type': 'goal'}]
+2025-05-20 19:44:46,742 [INFO] [38] ✅ Goal Assist output received.
+2025-05-20 19:44:49,802 [WARNING] [38] ⚠️ FAIL
+2025-05-20 19:44:49,803 [INFO] [39] Processing MILESTONE - Collaborate with parent: [{'id': 'test', 'name': 'Start', 'type': 'goal'}]
+2025-05-20 19:44:54,357 [INFO] [39] ✅ Goal Assist output received.
+2025-05-20 19:44:58,109 [INFO] [39] ✅ PASS
+2025-05-20 19:44:58,110 [INFO] [40] Processing MILESTONE - Conduct and analyze and finalize user and system feedback from beta to improve the final version before going live with parent: [{'id': 'test', 'name': 'Improve customer experience with timely updates and frequent communication across departments', 'type': 'goal'}]
+2025-05-20 19:45:39,400 [INFO] [40] ✅ Goal Assist output received.
+2025-05-20 19:45:46,753 [INFO] [40] ✅ PASS
+2025-05-20 19:45:46,756 [INFO] [41] Processing MILESTONE - Validate user feedback with surveys with parent: [{'id': 'test', 'name': 'Generate monthly reports', 'type': 'goal'}]
+2025-05-20 19:45:52,195 [INFO] [41] ✅ Goal Assist output received.
+2025-05-20 19:45:55,946 [INFO] [41] ✅ PASS
+2025-05-20 19:45:55,948 [INFO] [42] Processing MILESTONE - Perform load testing on staging with parent: [{'id': 'test', 'name': 'Build mobile app for internal use', 'type': 'goal'}]
+2025-05-20 19:46:01,382 [INFO] [42] ✅ Goal Assist output received.
+2025-05-20 19:46:05,437 [INFO] [42] ✅ PASS
+2025-05-20 19:46:05,439 [INFO] [43] Processing MILESTONE - Document all APIs with parent: [{'id': 'test', 'name': 'Implement data backup strategy', 'type': 'goal'}]
+2025-05-20 19:46:10,832 [INFO] [43] ✅ Goal Assist output received.
+2025-05-20 19:46:15,964 [INFO] [43] ✅ PASS
+2025-05-20 19:46:15,966 [INFO] [44] Processing MILESTONE - Train support team with parent: [{'id': 'test', 'name': 'Enhance onboarding experience for new employees', 'type': 'goal'}]
+2025-05-20 19:46:20,926 [INFO] [44] ✅ Goal Assist output received.
+2025-05-20 19:46:26,299 [INFO] [44] ✅ PASS
+2025-05-20 19:46:26,301 [INFO] [45] Processing GOAL - Increase user retention and reduce acquisition cost with parent: []
+2025-05-20 19:46:31,500 [INFO] [45] ✅ Goal Assist output received.
+2025-05-20 19:46:36,046 [INFO] [45] ✅ PASS
+2025-05-20 19:46:36,048 [INFO] [46] Processing GOAL - Improve team communication with parent: []
+2025-05-20 19:46:41,432 [INFO] [46] ✅ Goal Assist output received.
+2025-05-20 19:46:46,838 [INFO] [46] ✅ PASS
+2025-05-20 19:46:46,838 [INFO] [47] Processing GOAL - Launch with parent: []
+2025-05-20 19:47:26,661 [INFO] [47] ✅ Goal Assist output received.
+2025-05-20 19:47:33,352 [INFO] [47] ✅ PASS
+2025-05-20 19:47:33,355 [INFO] [48] Processing GOAL - Complete documentation and conduct review and gather feedback and close project with parent: []
+2025-05-20 19:48:16,588 [INFO] [48] ✅ Goal Assist output received.
+2025-05-20 19:48:21,590 [INFO] [48] ✅ PASS
+2025-05-20 19:48:21,594 [INFO] [49] Processing GOAL - Build and release with parent: []
+2025-05-20 19:48:27,091 [INFO] [49] ✅ Goal Assist output received.
+2025-05-20 19:48:34,122 [INFO] [49] ✅ PASS
+2025-05-20 19:48:34,124 [INFO] [50] Processing GOAL - Launch campaign 🚀 with parent: []
+2025-05-20 19:48:39,114 [INFO] [50] ✅ Goal Assist output received.
+2025-05-20 19:48:43,777 [INFO] [50] ✅ PASS
+2025-05-20 19:48:43,779 [INFO] [51] Processing MILESTONE - Gather and interpret data from A/B testing with parent: [{'id': 'test', 'name': 'Increase user retention and reduce acquisition cost', 'type': 'goal'}]
+2025-05-20 19:48:48,944 [INFO] [51] ✅ Goal Assist output received.
+2025-05-20 19:48:53,243 [INFO] [51] ✅ PASS
+2025-05-20 19:48:53,245 [INFO] [52] Processing MILESTONE - Finalize hiring strategy with parent: [{'id': 'test', 'name': 'Improve team communication', 'type': 'goal'}]
+2025-05-20 19:48:58,265 [INFO] [52] ✅ Goal Assist output received.
+2025-05-20 19:49:03,792 [INFO] [52] ✅ PASS
+2025-05-20 19:49:03,794 [INFO] [53] Processing MILESTONE - Launch MVP with parent: [{'id': 'test', 'name': 'Build and release', 'type': 'goal'}]
+2025-05-20 19:49:09,016 [INFO] [53] ✅ Goal Assist output received.
+2025-05-20 19:49:12,973 [INFO] [53] ✅ PASS
+2025-05-20 19:49:12,974 [INFO] [54] Processing MILESTONE - Conduct internal audit with parent: [{'id': 'test', 'name': 'Optimize CI pipeline', 'type': 'goal'}]
+2025-05-20 19:49:17,793 [INFO] [54] ✅ Goal Assist output received.
+2025-05-20 19:49:22,653 [INFO] [54] ✅ PASS
+2025-05-20 19:49:22,655 [INFO] ✅ Evaluation completed: 46/54 passed (85.19%)
+2025-05-20 19:49:22,656 [INFO] 📄 Results saved to test_with_output.csv
+2025-05-20 20:05:25,206 [INFO] [1] Processing GOAL - Increase customer satisfaction score with parent: []
+2025-05-20 20:05:36,395 [INFO] [1] ✅ Goal Assist output received.
+2025-05-20 20:05:48,729 [INFO] [1] ✅ PASS
+2025-05-20 20:05:48,730 [INFO] [2] Processing GOAL - Improve product quality and reduce bugs with parent: []
+2025-05-20 20:05:54,493 [INFO] [2] ✅ Goal Assist output received.
+2025-05-20 20:05:57,929 [INFO] [2] ✅ PASS
+2025-05-20 20:05:57,931 [INFO] [3] Processing GOAL - Enhance onboarding experience for new employees with parent: []
+2025-05-20 20:06:03,852 [INFO] [3] ✅ Goal Assist output received.
+2025-05-20 20:06:06,907 [INFO] [3] ✅ PASS
+2025-05-20 20:06:06,908 [INFO] [4] Processing GOAL - Develop a new employee training program with parent: []
+2025-05-20 20:06:12,431 [INFO] [4] ✅ Goal Assist output received.
+2025-05-20 20:06:16,323 [INFO] [4] ✅ PASS
+2025-05-20 20:06:16,324 [INFO] [5] Processing GOAL - Launch marketing campaign for Q4 with parent: []
+2025-05-20 20:06:21,833 [INFO] [5] ✅ Goal Assist output received.
+2025-05-20 20:06:26,270 [INFO] [5] ✅ PASS
+2025-05-20 20:06:26,272 [INFO] [6] Processing GOAL - Reduce churn rate by 10 percent with parent: []
+2025-05-20 20:06:31,459 [INFO] [6] ✅ Goal Assist output received.
+2025-05-20 20:06:35,796 [INFO] [6] ✅ PASS
+2025-05-20 20:06:35,797 [INFO] [7] Processing GOAL - Build mobile app for internal use with parent: []
+2025-05-20 20:06:40,683 [INFO] [7] ✅ Goal Assist output received.
+2025-05-20 20:06:43,685 [INFO] [7] ✅ PASS
+2025-05-20 20:06:43,687 [INFO] [8] Processing GOAL - Increase website traffic organically with parent: []
+2025-05-20 20:06:48,767 [INFO] [8] ✅ Goal Assist output received.
+2025-05-20 20:06:53,061 [INFO] [8] ✅ PASS
+2025-05-20 20:06:53,063 [INFO] [9] Processing GOAL - Streamline the recruitment process with parent: []
+2025-05-20 20:07:01,154 [INFO] [9] ✅ Goal Assist output received.
+2025-05-20 20:07:06,173 [INFO] [9] ✅ PASS
+2025-05-20 20:07:06,176 [INFO] [10] Processing GOAL - Implement data backup strategy with parent: []
+2025-05-20 20:07:12,943 [INFO] [10] ✅ Goal Assist output received.
+2025-05-20 20:07:17,107 [INFO] [10] ✅ PASS
+2025-05-20 20:07:17,110 [INFO] [11] Processing GOAL - Improve with parent: []
+2025-05-20 20:07:22,110 [INFO] [11] ✅ Goal Assist output received.
+2025-05-20 20:07:26,452 [INFO] [11] ✅ PASS
+2025-05-20 20:07:26,453 [INFO] [12] Processing GOAL - Improve customer experience with timely updates and frequent communication across departments with parent: []
+2025-05-20 20:08:32,398 [INFO] [12] ✅ Goal Assist output received.
+2025-05-20 20:08:38,766 [INFO] [12] ✅ PASS
+2025-05-20 20:08:38,768 [INFO] [13] Processing GOAL - Customer satisfaction increase with parent: []
+2025-05-20 20:09:18,256 [INFO] [13] ✅ Goal Assist output received.
+2025-05-20 20:09:22,745 [INFO] [13] ✅ PASS
+2025-05-20 20:09:22,746 [INFO] [14] Processing GOAL - Productivity enhancement with parent: []
+2025-05-20 20:09:28,304 [INFO] [14] ✅ Goal Assist output received.
+2025-05-20 20:09:31,877 [INFO] [14] ✅ PASS
+2025-05-20 20:09:31,878 [INFO] [15] Processing GOAL - Define a goal that is meaningful and fits in the given word count and also makes sense to the user reading it with parent: []
+2025-05-20 20:09:37,843 [INFO] [15] ✅ Goal Assist output received.
+2025-05-20 20:09:41,563 [INFO] [15] ✅ PASS
+2025-05-20 20:09:41,566 [INFO] [16] Processing GOAL - Start with parent: []
+2025-05-20 20:09:46,327 [INFO] [16] ✅ Goal Assist output received.
+2025-05-20 20:09:51,113 [WARNING] [16] ⚠️ FAIL
+2025-05-20 20:09:51,115 [INFO] [17] Processing GOAL - Finish project with parent: []
+2025-05-20 20:10:56,374 [INFO] [17] ✅ Goal Assist output received.
+2025-05-20 20:11:05,400 [INFO] [17] ✅ PASS
+2025-05-20 20:11:05,402 [INFO] [18] Processing GOAL - Goal without proper format with parent: []
+2025-05-20 20:11:12,800 [INFO] [18] ✅ Goal Assist output received.
+2025-05-20 20:11:17,167 [INFO] [18] ✅ PASS
+2025-05-20 20:11:17,168 [INFO] [19] Processing GOAL - Establish remote work policy with parent: []
+2025-05-20 20:11:22,762 [INFO] [19] ✅ Goal Assist output received.
+2025-05-20 20:11:27,627 [INFO] [19] ✅ PASS
+2025-05-20 20:11:27,628 [INFO] [20] Processing GOAL - Optimize CI pipeline with parent: []
+2025-05-20 20:11:33,234 [INFO] [20] ✅ Goal Assist output received.
+2025-05-20 20:11:36,684 [INFO] [20] ✅ PASS
+2025-05-20 20:11:36,686 [INFO] [21] Processing GOAL - Generate monthly reports with parent: []
+2025-05-20 20:11:42,231 [INFO] [21] ✅ Goal Assist output received.
+2025-05-20 20:11:46,186 [INFO] [21] ✅ PASS
+2025-05-20 20:11:46,188 [INFO] [22] Processing GOAL - Drive cultural transformation with parent: []
+2025-05-20 20:11:50,972 [INFO] [22] ✅ Goal Assist output received.
+2025-05-20 20:11:54,866 [INFO] [22] ✅ PASS
+2025-05-20 20:11:54,868 [INFO] [23] Processing MILESTONE - Conduct user research interviews with parent: [{'id': 'test', 'name': 'Increase customer satisfaction score', 'type': 'goal'}]
+2025-05-20 20:12:00,886 [INFO] [23] ✅ Goal Assist output received.
+2025-05-20 20:12:05,729 [INFO] [23] ✅ PASS
+2025-05-20 20:12:05,731 [INFO] [24] Processing MILESTONE - Launch beta version with core features with parent: [{'id': 'test', 'name': 'Improve product quality and reduce bugs', 'type': 'goal'}]
+2025-05-20 20:12:11,227 [INFO] [24] ✅ Goal Assist output received.
+2025-05-20 20:12:14,454 [INFO] [24] ✅ PASS
+2025-05-20 20:12:14,454 [INFO] [25] Processing MILESTONE - Track weekly user activity with parent: [{'id': 'test', 'name': 'Increase website traffic organically', 'type': 'goal'}]
+2025-05-20 20:12:54,747 [INFO] [25] ✅ Goal Assist output received.
+2025-05-20 20:12:59,434 [INFO] [25] ✅ PASS
+2025-05-20 20:12:59,434 [INFO] [26] Processing MILESTONE - Finalize UI design and documentation with parent: [{'id': 'test', 'name': 'Develop a new employee training program', 'type': 'goal'}]
+2025-05-20 20:13:04,642 [INFO] [26] ✅ Goal Assist output received.
+2025-05-20 20:13:09,100 [INFO] [26] ✅ PASS
+2025-05-20 20:13:09,103 [INFO] [27] Processing MILESTONE - Release version 1.0 with parent: [{'id': 'test', 'name': 'Build mobile app for internal use', 'type': 'goal'}]
+2025-05-20 20:14:14,620 [INFO] [27] ✅ Goal Assist output received.
+2025-05-20 20:14:19,607 [INFO] [27] ✅ PASS
+2025-05-20 20:14:19,609 [INFO] [28] Processing MILESTONE - Setup project repository and CI/CD with parent: [{'id': 'test', 'name': 'Implement data backup strategy', 'type': 'goal'}]
+2025-05-20 20:14:32,803 [INFO] [28] ✅ Goal Assist output received.
+2025-05-20 20:14:36,681 [INFO] [28] ✅ PASS
+2025-05-20 20:14:36,683 [INFO] [29] Processing MILESTONE - Publish blog post with success metrics with parent: [{'id': 'test', 'name': 'Launch marketing campaign for Q4', 'type': 'goal'}]
+2025-05-20 20:14:42,572 [INFO] [29] ✅ Goal Assist output received.
+2025-05-20 20:14:46,367 [INFO] [29] ✅ PASS
+2025-05-20 20:14:46,369 [INFO] [30] Processing MILESTONE - Create analytics dashboard with parent: [{'id': 'test', 'name': 'Streamline the recruitment process', 'type': 'goal'}]
+2025-05-20 20:15:51,458 [INFO] [30] ✅ Goal Assist output received.
+2025-05-20 20:15:58,651 [INFO] [30] ✅ PASS
+2025-05-20 20:15:58,657 [INFO] [31] Processing MILESTONE - Host stakeholder feedback session with parent: [{'id': 'test', 'name': 'Enhance onboarding experience for new employees', 'type': 'goal'}]
+2025-05-20 20:16:03,676 [INFO] [31] ✅ Goal Assist output received.
+2025-05-20 20:16:06,727 [INFO] [31] ✅ PASS
+2025-05-20 20:16:06,729 [INFO] [32] Processing MILESTONE - Review legal and compliance items with parent: [{'id': 'test', 'name': 'Drive cultural transformation', 'type': 'goal'}]
+2025-05-20 20:16:12,666 [INFO] [32] ✅ Goal Assist output received.
+2025-05-20 20:16:16,777 [INFO] [32] ✅ PASS
+2025-05-20 20:16:16,778 [INFO] [33] Processing MILESTONE - Milestone name with no action with parent: [{'id': 'test', 'name': 'Reduce churn rate by 10 percent', 'type': 'goal'}]
+2025-05-20 20:16:22,283 [INFO] [33] ✅ Goal Assist output received.
+2025-05-20 20:16:25,983 [INFO] [33] ✅ PASS
+2025-05-20 20:16:25,985 [INFO] [34] Processing MILESTONE - Review with parent: [{'id': 'test', 'name': 'Customer satisfaction increase', 'type': 'goal'}]
+2025-05-20 20:16:30,656 [INFO] [34] ✅ Goal Assist output received.
+2025-05-20 20:16:34,138 [INFO] [34] ✅ PASS
+2025-05-20 20:16:34,139 [INFO] [35] Processing MILESTONE - Just a milestone without context or metrics with parent: [{'id': 'test', 'name': 'Productivity enhancement', 'type': 'goal'}]
+2025-05-20 20:16:39,374 [INFO] [35] ✅ Goal Assist output received.
+2025-05-20 20:16:44,507 [WARNING] [35] ⚠️ FAIL
+2025-05-20 20:16:44,508 [INFO] [36] Processing MILESTONE - 123456 with parent: [{'id': 'test', 'name': 'Optimize CI pipeline', 'type': 'goal'}]
+2025-05-20 20:16:50,272 [INFO] [36] ✅ Goal Assist output received.
+2025-05-20 20:16:54,533 [WARNING] [36] ⚠️ FAIL
+2025-05-20 20:16:54,535 [INFO] [37] Processing MILESTONE - 🚀 Launch with parent: [{'id': 'test', 'name': 'Finish project', 'type': 'goal'}]
+2025-05-20 20:16:59,176 [INFO] [37] ✅ Goal Assist output received.
+2025-05-20 20:17:04,029 [WARNING] [37] ⚠️ FAIL
+2025-05-20 20:17:04,031 [INFO] [38] Processing MILESTONE - Reiterate and reiterate and reiterate the old steps again with parent: [{'id': 'test', 'name': 'Goal without proper format', 'type': 'goal'}]
+2025-05-20 20:17:09,318 [INFO] [38] ✅ Goal Assist output received.
+2025-05-20 20:17:11,907 [INFO] [38] ✅ PASS
+2025-05-20 20:17:11,908 [INFO] [39] Processing MILESTONE - Collaborate with parent: [{'id': 'test', 'name': 'Start', 'type': 'goal'}]
+2025-05-20 20:17:16,588 [INFO] [39] ✅ Goal Assist output received.
+2025-05-20 20:17:19,515 [INFO] [39] ✅ PASS
+2025-05-20 20:17:19,516 [INFO] [40] Processing MILESTONE - Conduct and analyze and finalize user and system feedback from beta to improve the final version before going live with parent: [{'id': 'test', 'name': 'Improve customer experience with timely updates and frequent communication across departments', 'type': 'goal'}]
+2025-05-20 20:17:36,319 [INFO] [40] ✅ Goal Assist output received.
+2025-05-20 20:17:39,620 [INFO] [40] ✅ PASS
+2025-05-20 20:17:39,621 [INFO] [41] Processing MILESTONE - Validate user feedback with surveys with parent: [{'id': 'test', 'name': 'Generate monthly reports', 'type': 'goal'}]
+2025-05-20 20:17:48,849 [INFO] [41] ✅ Goal Assist output received.
+2025-05-20 20:17:53,694 [INFO] [41] ✅ PASS
+2025-05-20 20:17:53,695 [INFO] [42] Processing MILESTONE - Perform load testing on staging with parent: [{'id': 'test', 'name': 'Build mobile app for internal use', 'type': 'goal'}]
+2025-05-20 20:17:58,791 [INFO] [42] ✅ Goal Assist output received.
+2025-05-20 20:18:02,434 [INFO] [42] ✅ PASS
+2025-05-20 20:18:02,436 [INFO] [43] Processing MILESTONE - Document all APIs with parent: [{'id': 'test', 'name': 'Implement data backup strategy', 'type': 'goal'}]
+2025-05-20 20:18:43,319 [INFO] [43] ✅ Goal Assist output received.
+2025-05-20 20:18:49,771 [INFO] [43] ✅ PASS
+2025-05-20 20:18:49,774 [INFO] [44] Processing MILESTONE - Train support team with parent: [{'id': 'test', 'name': 'Enhance onboarding experience for new employees', 'type': 'goal'}]
+2025-05-20 20:18:58,119 [INFO] [44] ✅ Goal Assist output received.
+2025-05-20 20:19:03,409 [INFO] [44] ✅ PASS
+2025-05-20 20:19:03,411 [INFO] [45] Processing GOAL - Increase user retention and reduce acquisition cost with parent: []
+2025-05-20 20:19:12,049 [INFO] [45] ✅ Goal Assist output received.
+2025-05-20 20:19:16,769 [INFO] [45] ✅ PASS
+2025-05-20 20:19:16,770 [INFO] [46] Processing GOAL - Improve team communication with parent: []
+2025-05-20 20:19:22,080 [INFO] [46] ✅ Goal Assist output received.
+2025-05-20 20:19:26,043 [INFO] [46] ✅ PASS
+2025-05-20 20:19:26,046 [INFO] [47] Processing GOAL - Launch with parent: []
+2025-05-20 20:19:32,389 [INFO] [47] ✅ Goal Assist output received.
+2025-05-20 20:19:37,258 [WARNING] [47] ⚠️ FAIL
+2025-05-20 20:19:37,260 [INFO] [48] Processing GOAL - Complete documentation and conduct review and gather feedback and close project with parent: []
+2025-05-20 20:19:42,885 [INFO] [48] ✅ Goal Assist output received.
+2025-05-20 20:19:47,353 [INFO] [48] ✅ PASS
+2025-05-20 20:19:47,355 [INFO] [49] Processing GOAL - Build and release with parent: []
+2025-05-20 20:19:52,821 [INFO] [49] ✅ Goal Assist output received.
+2025-05-20 20:19:56,620 [INFO] [49] ✅ PASS
+2025-05-20 20:19:56,622 [INFO] [50] Processing GOAL - Launch campaign 🚀 with parent: []
+2025-05-20 20:20:01,741 [INFO] [50] ✅ Goal Assist output received.
+2025-05-20 20:20:06,138 [INFO] [50] ✅ PASS
+2025-05-20 20:20:06,140 [INFO] [51] Processing MILESTONE - Gather and interpret data from A/B testing with parent: [{'id': 'test', 'name': 'Increase user retention and reduce acquisition cost', 'type': 'goal'}]
+2025-05-20 20:20:12,102 [INFO] [51] ✅ Goal Assist output received.
+2025-05-20 20:20:15,514 [INFO] [51] ✅ PASS
+2025-05-20 20:20:15,516 [INFO] [52] Processing MILESTONE - Finalize hiring strategy with parent: [{'id': 'test', 'name': 'Improve team communication', 'type': 'goal'}]
+2025-05-20 20:20:20,807 [INFO] [52] ✅ Goal Assist output received.
+2025-05-20 20:20:24,108 [INFO] [52] ✅ PASS
+2025-05-20 20:20:24,109 [INFO] [53] Processing MILESTONE - Launch MVP with parent: [{'id': 'test', 'name': 'Build and release', 'type': 'goal'}]
+2025-05-20 20:20:29,023 [INFO] [53] ✅ Goal Assist output received.
+2025-05-20 20:20:34,150 [INFO] [53] ✅ PASS
+2025-05-20 20:20:34,151 [INFO] [54] Processing MILESTONE - Conduct internal audit with parent: [{'id': 'test', 'name': 'Optimize CI pipeline', 'type': 'goal'}]
+2025-05-20 20:20:39,132 [INFO] [54] ✅ Goal Assist output received.
+2025-05-20 20:20:42,389 [INFO] [54] ✅ PASS
+2025-05-20 20:20:42,392 [INFO] ✅ Evaluation completed: 49/54 passed (90.74%)
+2025-05-20 20:20:42,392 [INFO] 📄 Results saved to test_with_output.csv
+2025-05-21 10:57:57,408 [INFO] [1] Processing GOAL - Increase customer satisfaction score with faster support with parent: []
+2025-05-21 10:58:06,602 [INFO] [1] ✅ Goal Assist output received.
+2025-05-21 10:58:21,102 [INFO] [1] ✅ PASS
+2025-05-21 10:58:21,103 [INFO] [2] Processing GOAL - Improve product quality and reduce recurring software bugs with parent: []
+2025-05-21 11:01:25,247 [ERROR] [2] ❌ Error occurred: 504 Server Error: Gateway Time-out for url: https://rainforest.betterworks.com/accelerators/llm/goal-writing-assist
+2025-05-21 11:01:25,252 [INFO] [3] Processing GOAL - Enhance onboarding experience for all new employees with parent: []
+2025-05-21 11:01:40,896 [INFO] [3] ✅ Goal Assist output received.
+2025-05-21 11:01:47,040 [INFO] [3] ✅ PASS
+2025-05-21 11:01:47,042 [INFO] [4] Processing GOAL - Develop a comprehensive employee training program with parent: []
+2025-05-21 11:01:53,197 [INFO] [4] ✅ Goal Assist output received.
+2025-05-21 11:01:58,535 [INFO] [4] ✅ PASS
+2025-05-21 11:01:58,537 [INFO] [5] Processing GOAL - Launch marketing campaign to boost Q4 revenue with parent: []
+2025-05-21 11:02:04,059 [INFO] [5] ✅ Goal Assist output received.
+2025-05-21 11:02:07,695 [INFO] [5] ✅ PASS
+2025-05-21 11:02:07,697 [INFO] [6] Processing GOAL - Reduce customer churn rate by at least ten percent with parent: []
+2025-05-21 11:02:13,399 [INFO] [6] ✅ Goal Assist output received.
+2025-05-21 11:02:17,211 [INFO] [6] ✅ PASS
+2025-05-21 11:02:17,213 [INFO] [7] Processing GOAL - Build a new mobile app for internal operations with parent: []
+2025-05-21 11:02:23,055 [INFO] [7] ✅ Goal Assist output received.
+2025-05-21 11:02:28,580 [INFO] [7] ✅ PASS
+2025-05-21 11:02:28,583 [INFO] [8] Processing GOAL - Increase website traffic using SEO and blog content with parent: []
+2025-05-21 11:02:34,183 [INFO] [8] ✅ Goal Assist output received.
+2025-05-21 11:02:37,284 [INFO] [8] ✅ PASS
+2025-05-21 11:02:37,285 [INFO] [9] Processing GOAL - Streamline the recruitment process for engineering roles with parent: []
+2025-05-21 11:02:43,123 [INFO] [9] ✅ Goal Assist output received.
+2025-05-21 11:02:47,169 [INFO] [9] ✅ PASS
+2025-05-21 11:02:47,173 [INFO] [10] Processing GOAL - Implement robust data backup and recovery strategy with parent: []
+2025-05-21 11:02:53,044 [INFO] [10] ✅ Goal Assist output received.
+2025-05-21 11:02:59,164 [INFO] [10] ✅ PASS
+2025-05-21 11:02:59,168 [INFO] [11] Processing GOAL - Optimize CI/CD pipeline for faster code delivery with parent: []
+2025-05-21 11:03:04,984 [INFO] [11] ✅ Goal Assist output received.
+2025-05-21 11:03:08,444 [INFO] [11] ✅ PASS
+2025-05-21 11:03:08,445 [INFO] [12] Processing GOAL - Generate monthly performance reports for leadership review with parent: []
+2025-05-21 11:03:13,750 [INFO] [12] ✅ Goal Assist output received.
+2025-05-21 11:03:17,418 [INFO] [12] ✅ PASS
+2025-05-21 11:03:17,419 [INFO] [13] Processing GOAL - Establish a remote work policy for global teams with parent: []
+2025-05-21 11:03:23,292 [INFO] [13] ✅ Goal Assist output received.
+2025-05-21 11:03:27,837 [INFO] [13] ✅ PASS
+2025-05-21 11:03:27,841 [INFO] [14] Processing GOAL - Drive cultural transformation through leadership workshops with parent: []
+2025-05-21 11:03:33,468 [INFO] [14] ✅ Goal Assist output received.
+2025-05-21 11:03:37,656 [INFO] [14] ✅ PASS
+2025-05-21 11:03:37,658 [INFO] [15] Processing MILESTONE - Launch beta version with core product features with parent: [{'id': 'test', 'name': 'Improve product quality and reduce recurring software bugs', 'type': 'goal'}]
+2025-05-21 11:03:43,217 [INFO] [15] ✅ Goal Assist output received.
+2025-05-21 11:03:46,855 [INFO] [15] ✅ PASS
+2025-05-21 11:03:46,857 [INFO] [16] Processing MILESTONE - Conduct user interviews to validate feature ideas with parent: [{'id': 'test', 'name': 'Enhance onboarding experience for all new employees', 'type': 'goal'}]
+2025-05-21 11:03:52,309 [INFO] [16] ✅ Goal Assist output received.
+2025-05-21 11:03:56,211 [INFO] [16] ✅ PASS
+2025-05-21 11:03:56,213 [INFO] [17] Processing MILESTONE - Finalize UI design and product documentation with parent: [{'id': 'test', 'name': 'Develop a comprehensive employee training program', 'type': 'goal'}]
+2025-05-21 11:04:02,025 [INFO] [17] ✅ Goal Assist output received.
+2025-05-21 11:04:07,153 [INFO] [17] ✅ PASS
+2025-05-21 11:04:07,155 [INFO] [18] Processing MILESTONE - Track weekly user activity and engagement metrics with parent: [{'id': 'test', 'name': 'Increase website traffic using SEO and blog content', 'type': 'goal'}]
+2025-05-21 11:04:12,462 [INFO] [18] ✅ Goal Assist output received.
+2025-05-21 11:04:15,263 [INFO] [18] ✅ PASS
+2025-05-21 11:04:15,266 [INFO] [19] Processing MILESTONE - Review legal compliance and regulatory requirements with parent: [{'id': 'test', 'name': 'Launch marketing campaign to boost Q4 revenue', 'type': 'goal'}]
+2025-05-21 11:04:20,814 [INFO] [19] ✅ Goal Assist output received.
+2025-05-21 11:04:24,877 [INFO] [19] ✅ PASS
+2025-05-21 11:04:24,880 [INFO] [20] Processing MILESTONE - Publish blog post summarizing success metrics with parent: [{'id': 'test', 'name': 'Increase website traffic using SEO and blog content', 'type': 'goal'}]
+2025-05-21 11:04:33,132 [INFO] [20] ✅ Goal Assist output received.
+2025-05-21 11:04:36,554 [INFO] [20] ✅ PASS
+2025-05-21 11:04:36,556 [INFO] [21] Processing MILESTONE - Create analytics dashboard for stakeholder visibility with parent: [{'id': 'test', 'name': 'Generate monthly performance reports for leadership review', 'type': 'goal'}]
+2025-05-21 11:04:47,420 [INFO] [21] ✅ Goal Assist output received.
+2025-05-21 11:04:50,853 [INFO] [21] ✅ PASS
+2025-05-21 11:04:50,854 [INFO] [22] Processing MILESTONE - Host feedback session with internal stakeholders with parent: [{'id': 'test', 'name': 'Drive cultural transformation through leadership workshops', 'type': 'goal'}]
+2025-05-21 11:04:56,433 [INFO] [22] ✅ Goal Assist output received.
+2025-05-21 11:05:00,310 [INFO] [22] ✅ PASS
+2025-05-21 11:05:00,313 [INFO] [23] Processing MILESTONE - Setup project repository and CI/CD pipelines with parent: [{'id': 'test', 'name': 'Optimize CI/CD pipeline for faster code delivery', 'type': 'goal'}]
+2025-05-21 11:05:05,948 [INFO] [23] ✅ Goal Assist output received.
+2025-05-21 11:05:11,307 [INFO] [23] ✅ PASS
+2025-05-21 11:05:11,309 [INFO] [24] Processing MILESTONE - Document all APIs with examples and standards with parent: [{'id': 'test', 'name': 'Develop a comprehensive employee training program', 'type': 'goal'}]
+2025-05-21 11:05:17,207 [INFO] [24] ✅ Goal Assist output received.
+2025-05-21 11:05:21,857 [INFO] [24] ✅ PASS
+2025-05-21 11:05:21,858 [INFO] [25] Processing MILESTONE - Train support team on updated product workflows with parent: [{'id': 'test', 'name': 'Build a new mobile app for internal operations', 'type': 'goal'}]
+2025-05-21 11:05:27,284 [INFO] [25] ✅ Goal Assist output received.
+2025-05-21 11:05:32,875 [INFO] [25] ✅ PASS
+2025-05-21 11:05:32,876 [INFO] [26] Processing MILESTONE - Validate user feedback with in-app surveys with parent: [{'id': 'test', 'name': 'Increase customer satisfaction score with faster support', 'type': 'goal'}]
+2025-05-21 11:05:38,649 [INFO] [26] ✅ Goal Assist output received.
+2025-05-21 11:05:42,436 [INFO] [26] ✅ PASS
+2025-05-21 11:05:42,438 [INFO] [27] Processing MILESTONE - Perform load testing in staging environment with parent: [{'id': 'test', 'name': 'Optimize CI/CD pipeline for faster code delivery', 'type': 'goal'}]
+2025-05-21 11:05:50,896 [INFO] [27] ✅ Goal Assist output received.
+2025-05-21 11:05:55,099 [INFO] [27] ✅ PASS
+2025-05-21 11:05:55,100 [INFO] ✅ Evaluation completed: 26/27 passed (96.30%)
+2025-05-21 11:05:55,100 [INFO] 📄 Results saved to test_with_output.csv

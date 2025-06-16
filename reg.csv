@@ -1,0 +1,58 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+ethan.brown38046@pharma.com,Feedback Summary,fr,fr,✅ PASS,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,fr,✅ PASS,Assistance IA: Améliorer la qualité des réponses 
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""input.select2-input"")
+  -     - locator resolved to 2 elements. Proceeding with the first one: <input type=""text"" autocorrect=""off"" autocomplete=""off"" spellcheck=""false"" autocapitalize=""off"" class=""select2-input"" aria-autocomplete=""list"" id=""s2id_autogen12_search"" aria-label=""combobox expanded"" aria-controls=""select2-results-12"" placeholder=""Rechercher une personne""/>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     58 × waiting for element to be visible, enabled and stable
+  -        - element is not visible
+  -      - retrying click action
+  -        - waiting 500ms
+"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"
+ethan.brown38046@pharma.com,Feedback Summary,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Goal Assist,fr,,❌ API ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr,,API ❌ ERROR,
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Page.goto: Target page, context or browser has been closed"

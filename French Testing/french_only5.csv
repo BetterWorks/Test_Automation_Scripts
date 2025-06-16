@@ -1,0 +1,21 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,"Error in generating response, please try again"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,Timeout or no suggestion
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.

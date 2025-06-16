@@ -1,0 +1,29 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+julia.davis36889@pharma.com,Feedback Writing Assist,cs,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+julia.smith16586@pharma.com,Feedback Writing Assist,de,de,✅ PASS,"Dies ist ein längerer Beispielsatz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen."
+alice.taylor33665@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to trigger the AI's generation feature and help validate language detection capabilities.
+george.wilson15124@pharma.com,Feedback Writing Assist,en,unknown,💥 Critical Error,"Page.reload: Timeout 30000ms exceeded.
+Call log:
+  - waiting for navigation until ""load""
+  -     - navigated to ""https://rainforest.betterworks.com/app/#/feedback/give""
+"
+hannah.taylor36586@pharma.com,Feedback Writing Assist,es,unknown,API ❌ ERROR,"Error in generating response, please try again"
+george.brown26632@pharma.com,Feedback Writing Assist,es,unknown,API ❌ ERROR,"Error in generating response, please try again"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester sa capacité à comprendre la langue.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ceci est une phrase d'exemple plus longue destinée à déclencher l'IA et à valider la détection de la langue.
+charlie.miller34690@pharma.com,Feedback Writing Assist,hr,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+diana.wilson16900@pharma.com,Feedback Writing Assist,it,it,✅ PASS,Questa è una frase di esempio più lunga che fornisce un contesto adeguato per attivare l'intelligenza artificiale e validare la lingua utilizzata.
+bob.moore10704@pharma.com,Feedback Writing Assist,ja,ja,✅ PASS,この文は、AIを起動し、言語検出を検証するための十分な情報を提供する長いサンプル文です。
+fiona.johnson32836@pharma.com,Feedback Writing Assist,ko,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+george.smith36555@pharma.com,Feedback Writing Assist,nl,nl,✅ PASS,Dit is een langere zin die voldoet aan de vereisten om de AI te activeren en de taalherkenning te testen.
+ian.miller15383@pharma.com,Feedback Writing Assist,pl,pl,✅ PASS,"To jest przykładowe zdanie, które zapewnia wystarczający kontekst do uruchomienia modelu AI i sprawdzenia rozpoznania języka."
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,unknown,API ❌ ERROR,"Error in generating response, please try again"
+ethan.moore29786@pharma.com,Feedback Writing Assist,ro,unknown,API ❌ ERROR,"Error in generating response, please try again"
+diana.johnson13823@pharma.com,Feedback Writing Assist,ru,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+charlie.davis17727@pharma.com,Feedback Writing Assist,sk,sk,✅ PASS,"Táto je dlhšia ukážková veta, ktorá poskytuje dostatok kontextu pre spustenie AI a overenie rozpoznania jazyka."
+ian.taylor6610@pharma.com,Feedback Writing Assist,sv,sv,✅ PASS,Detta är en längre exempelmening som ger tillräckligt sammanhang för att trigga AI och validera språkigenkänning.
+bob.moore24656@pharma.com,Feedback Writing Assist,th,unknown,API ❌ ERROR,"Error in generating response, please try again"
+alice.miller25005@pharma.com,Feedback Writing Assist,tr,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+fiona.johnson5529@pharma.com,Feedback Writing Assist,vi,vi,✅ PASS,"Đây là một câu ví dụ dài hơn, cung cấp đủ ngữ cảnh để kích hoạt trí tuệ nhân tạo và xác minh ngôn ngữ được phát hiện."
+charlie.wilson10460@pharma.com,Feedback Writing Assist,zh-Hans,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+fiona.thomas16815@pharma.com,Feedback Writing Assist,zh-Hant,unknown,API ❌ ERROR,no suggestion or Error

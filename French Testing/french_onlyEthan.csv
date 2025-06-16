@@ -1,0 +1,27 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,API ❌ ERROR,"Page.wait_for_selector: Timeout 80000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-action-button-container"") to be visible
+"
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,EXCEPTION ❌,unknown,cannot access local variable 'detected' where it is not associated with a value

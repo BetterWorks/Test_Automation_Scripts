@@ -1,0 +1,51 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+julia.davis36889@pharma.com,Feedback Writing Assist,cs,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+julia.smith16586@pharma.com,Feedback Writing Assist,de,de,✅ PASS,"Dies ist ein längerer Beispielsatz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen."
+alice.taylor33665@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to test the AI generation feature and validate language detection capabilities.
+george.wilson15124@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to trigger the AI generation feature and help validate language detection capabilities.
+hannah.taylor36586@pharma.com,Feedback Writing Assist,es,unknown,💥 Critical Error,"Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to ""https://rainforest.betterworks.com/app/#/feedback/give"", waiting until ""load""
+"
+george.brown26632@pharma.com,Feedback Writing Assist,es,unknown,API ❌ ERROR,"Error in generating response, please try again"
+george.brown26632@pharma.com,Feedback Writing Assist,es,unknown,❌ FAIL (Exception),"Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-text-container"")
+"
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ceci est une phrase d'exemple plus longue destinée à tester l'intelligence artificielle et à valider la détection de la langue.
+charlie.miller34690@pharma.com,Feedback Writing Assist,hr,unknown,API ❌ ERROR,"Error in generating response, please try again"
+charlie.miller34690@pharma.com,Feedback Writing Assist,hr,unknown,❌ FAIL (Exception),"Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-text-container"")
+"
+diana.wilson16900@pharma.com,Feedback Writing Assist,it,it,✅ PASS,Questa è una frase di esempio più lunga che fornisce un contesto adeguato per attivare l'intelligenza artificiale e verificare la lingua.
+bob.moore10704@pharma.com,Feedback Writing Assist,ja,ja,✅ PASS,この文は、AIの起動と言語検出の検証のために十分なコンテキストを提供する長いサンプル文です。
+fiona.johnson32836@pharma.com,Feedback Writing Assist,ko,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+george.smith36555@pharma.com,Feedback Writing Assist,nl,nl,✅ PASS,Dit is een voorbeeldzin die voldoet aan de vereisten om de AI te activeren en de taalherkenning te testen.
+ian.miller15383@pharma.com,Feedback Writing Assist,pl,pl,✅ PASS,"To jest przykładowe zdanie, które zapewnia wystarczający kontekst do uruchomienia modelu AI i sprawdzenia jego rozpoznania języka."
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,unknown,API ❌ ERROR,"Error in generating response, please try again"
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,unknown,❌ FAIL (Exception),"Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-text-container"")
+"
+ethan.moore29786@pharma.com,Feedback Writing Assist,ro,unknown,API ❌ ERROR,"Error in generating response, please try again"
+ethan.moore29786@pharma.com,Feedback Writing Assist,ro,unknown,❌ FAIL (Exception),"Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-text-container"")
+"
+diana.johnson13823@pharma.com,Feedback Writing Assist,ru,ru,✅ PASS,"Это более длинное примерное предложение, которое обеспечивает необходимый контекст для запуска ИИ и проверки языка."
+charlie.davis17727@pharma.com,Feedback Writing Assist,sk,sk,✅ PASS,"Táto je dlhá ukážková veta, ktorá poskytne dostatočný kontext na spustenie AI a overenie rozpoznania jazyka."
+ian.taylor6610@pharma.com,Feedback Writing Assist,sv,sv,✅ PASS,Detta är en längre exempelmening som ger tillräckligt sammanhang för att trigga AI och validera språkigenkänning.
+bob.moore24656@pharma.com,Feedback Writing Assist,th,unknown,API ❌ ERROR,"Error in generating response, please try again"
+bob.moore24656@pharma.com,Feedback Writing Assist,th,unknown,❌ FAIL (Exception),"Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-text-container"")
+"
+alice.miller25005@pharma.com,Feedback Writing Assist,tr,tr,✅ PASS,"Bu, yapay zekayı tetiklemek ve dil tanıma yeteneklerini doğrulamak için daha uzun bir örnek cümledir."
+fiona.johnson5529@pharma.com,Feedback Writing Assist,vi,unknown,💥 Critical Error,"Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to ""https://rainforest.betterworks.com/app/#/feedback/give"", waiting until ""load""
+"
+charlie.wilson10460@pharma.com,Feedback Writing Assist,zh-Hans,fr,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+fiona.thomas16815@pharma.com,Feedback Writing Assist,zh-Hant,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.

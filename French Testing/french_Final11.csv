@@ -1,0 +1,21 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l'intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte canadien vise à offrir un contexte riche pour activer les fonctionnalités d'intelligence artificielle.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,"Pour évaluer la reconnaissance linguistique, ce message utilise des expressions caractéristiques du français canadien."
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,L'analyse linguistique doit reconnaître ce contenu comme provenant de la francophonie canadienne.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Nous voulons déclencher l'intelligence artificielle avec cette phrase écrite en français canadien.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Cette phrase est construite avec des nuances spécifiques au français canadien.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,L'objectif est de mettre en œuvre l'intelligence artificielle à l'aide d'un texte québécois clair.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce contenu long et contextuel doit initier les processus d'IA adaptés à la langue.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Un exemple de texte destiné à identifier la langue comme le français canadien.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Cette entrée linguistique doit être classée en français (français canadien) par l'algorithme.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Cette phrase est un exemple plus long destiné à déclencher l'IA et à valider la détection de la langue.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Une phrase typiquement française qui devrait être correctement reconnue par l'IA.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,L'objectif de ce message est d'activer la reconnaissance du français en France.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,unknown,API ❌ ERROR,no suggestion or Error
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une formulation adaptée au contexte linguistique français métropolitain.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Cette phrase contient des expressions typiques du français parlé en France.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici un exemple de texte français utilisé pour activer les réponses basées sur l'IA.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Un contenu métropolitain en français destiné à tester les capacités de l'algorithme.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ce passage est rédigé pour refléter les caractéristiques du français parlé en France.

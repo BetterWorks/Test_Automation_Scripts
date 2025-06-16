@@ -1,0 +1,21 @@
+email,expected_lang,supported,expected_lang_name,AI_input
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Voici une phrase exemple plus longue qui fournit suffisamment de contexte pour activer l’intelligence artificielle et tester la langue.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Ce texte canadien vise à fournir un contexte riche pour activer les fonctionnalités d’intelligence artificielle.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),"Pour vérifier la reconnaissance linguistique, ce message utilise des expressions typiques du français canadien."
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),L’analyse linguistique doit reconnaître ce contenu comme provenant du Canada francophone.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Nous voulons déclencher l'IA avec cette phrase écrite en français canadien.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Cette phrase est construite avec des nuances spécifiques au français du Canada.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Le but est d’activer l’intelligence artificielle à travers un texte québécois clair.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Ce contenu long et contextuel doit initier les processus d’IA adaptés à la langue.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Un exemple de texte destiné à identifier la langue comme le français canadien.
+ethan.brown38046@pharma.com,fr_CA,True,French (Canada),Cette entrée linguistique doit être classée sous le code fr_CA par l'algorithme.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Ceci est une phrase d'exemple plus longue destinée à déclencher l'IA et à valider la détection de la langue.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Ce texte est conçu pour évaluer les capacités de détection linguistique du système.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Une phrase typiquement française qui devrait être correctement identifiée par l’IA.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Le but de ce message est d’activer la reconnaissance du français de France.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Nous testons ici un extrait plus riche en vocabulaire pour une détection précise.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Voici une formulation adaptée au contexte linguistique français métropolitain.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Cette phrase contient des constructions propres au français parlé en France.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Exemple de texte français utilisé pour activer les réponses basées sur l’IA.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Un contenu contextuel en français métropolitain destiné à tester les capacités de l’algorithme.
+charlie.wilson19844@pharma.com,fr_FR,True,French (France),Ce passage est rédigé pour refléter les caractéristiques du français de France.

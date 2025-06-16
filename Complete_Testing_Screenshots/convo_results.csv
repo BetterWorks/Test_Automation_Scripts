@@ -1,0 +1,112 @@
+email,feature,expected_lang,supported_lang,detected_lang,status,detected_text
+julia.davis36889@pharma.com,Conversation Assist,cs,False,cs,✅ PASS,"Ppodpora AI: Vylepšit odpověď 
+Tato je ukázková věta obsahující dostatečný text pro aktivaci umělé inteligence a ověření jazykového rozpoznání.
+ZNOVU VYGENEROVAT
+POUŽÍT
+
+Proč použít tento návrh?
+
+Jako první jsem opravil chybějící tvrdé znaky v původním textu, aby byl text čitelnější a lépe pochopitelný."
+julia.smith16586@pharma.com,Conversation Assist,de,True,de,✅ PASS,"KI-Assistent: Antwort verbessern 
+Dies ist ein längerer Beispiel-Satz, der genügend Kontext liefert, um die KI auszulösen und die Spracherkennung zu testen.
+NEU GENERIEREN
+ANWENDEN
+
+Warum sollte dieser Vorschlag befolgt werden?
+
+Ich habe den Satz leicht korrigiert, um ihn grammatikalisch korrekt zu machen und die Übersetzung zu erleichtern."
+alice.taylor33665@pharma.com,Conversation Assist,en,True,,❌ ERROR,
+george.wilson15124@pharma.com,Conversation Assist,en_GB,True,en,❌ FAIL,"AI Assist: Improve Response 
+This is a longer sample input, intended to trigger the AI generation feature and help validate language detection capabilities.
+REGENERATE
+APPLY
+
+Why apply this suggestion?
+
+Minor adjustments were made to the punctuation for clarity and consistency."
+hannah.taylor36586@pharma.com,Conversation Assist,es,True,es,✅ PASS,"Asistente de IA: Mejorar respuesta 
+ Se ha producido un error. Vuelva a intentarlo."
+george.brown26632@pharma.com,Conversation Assist,es_419,True,,❌ ERROR,
+ethan.brown38046@pharma.com,Conversation Assist,fr_CA,True,,❌ ERROR,
+charlie.wilson19844@pharma.com,Conversation Assist,fr_FR,True,,❌ ERROR,
+charlie.miller34690@pharma.com,Conversation Assist,hr,False,,❌ ERROR,
+diana.wilson16900@pharma.com,Conversation Assist,it,True,hr,❌ FAIL,"Pomoćnik s umjetnom inteligencijom: Poboljšajte odgovor 
+Ovo je primjerak rečenice duže koji pruža odgovarajući kontekst za aktiviranje umjetne inteligencije i validaciju jezika.
+PONOVNO GENERIRAJ
+PRIMIJENI
+
+Zašto primijeniti ovaj prijedlog?
+
+Prijedloženo rečenicu je preloženo u hrvatski jezik kako bi se osigurala razumljivost i da se njome se aktivira mogućnost validacije jezika."
+bob.moore10704@pharma.com,Conversation Assist,ja,False,hr,❌ FAIL,"Pomoćnik s umjetnom inteligencijom: Poboljšajte odgovor 
+Ovo je dugi primjerak teksta koji pruža dovoljan kontekst za pokretanje AI-a i provjeravanje jezika.
+PONOVNO GENERIRAJ
+PRIMIJENI
+
+Zašto primijeniti ovaj prijedlog?
+
+Tekst je preveden u hrvatski jezik kako bi se odgovor bio u željenom jeziku."
+fiona.johnson32836@pharma.com,Conversation Assist,ko,False,ko,✅ PASS,"AI 어시스트: 응답 개선하기 
+이것은 인공지능을 활성화하고 언어 감지를 확인하는 데 충분한 맥락을 제공하는 긴 문장의 예입니다.
+재생성
+적용
+
+이 추천이 적용된 이유
+
+형용사 '길이'가 '긴'으로 바뀐 것을 설명하였습니다."
+george.smith36555@pharma.com,Conversation Assist,nl,False,nl,✅ PASS,"AI-assistent: Antwoorden verbeteren 
+ Er is een fout opgetreden. Probeer het opnieuw."
+ian.miller15383@pharma.com,Conversation Assist,pl_PL,False,pl,❌ FAIL,"Asysta SI: Popraw reakcję 
+ Wystąpił błąd. Spróbuj ponownie."
+george.taylor15272@pharma.com,Conversation Assist,pt_BR,True,pt,❌ FAIL,"Assistência à IA: Melhorar resposta 
+ Ocorreu um erro, tente novamente."
+ethan.moore29786@pharma.com,Conversation Assist,ro,False,ro,✅ PASS,"Asistență IA: Îmbunătățiți răspunsul 
+Acesta este un exemplu de propoziție mai lungă, care oferă suficient context pentru a declanșa AI-ul și a valida limba detectată.
+REGENERAȚI
+APLICĂ
+
+De ce să aplicăm această sugestie?
+
+Am schimbat 'aceasta' în 'acesta' pentru a face propoziția mai corectă gramatical și a reflecta corectul gen și număr al pronumelui."
+diana.johnson13823@pharma.com,Conversation Assist,ru,False,ru,✅ PASS,"ИИ-ассистент: Улучшите ответ 
+Это более длинное примерное предложение, которое дает достаточно контекста для запуска ИИ и проверки языка.
+ПОВТОРИТЬ ЗАПРОС
+ПРИМЕНИТЬ
+
+Чем полезно это предложение?
+
+Нет изменений в предложении, но добавлен перевод в русский язык."
+charlie.davis17727@pharma.com,Conversation Assist,sk,False,sk,✅ PASS,"AI Assist : Zlepšiť odozvu 
+Táto je dlhá ukážková veta, ktorá poskytuje dostatočnú kontext pre spustenie AI a overenie rozpoznania jazyka.
+ZNOVA GENEROVAŤ
+POUŽIŤ
+
+Prečo použiť tento návrh?
+
+Použité slovo 'dlhšia' bolo nahradené synonymom 'dlhá' pre lepšiu súladu a jasnosť vyjadrenia."
+ian.taylor6610@pharma.com,Conversation Assist,sv,False,sv,✅ PASS,"AI-stöd: Förbättra svar 
+Detta är ett längre exempel som ger tillräckligt med sammanhang för att trigga AI och validera språkigenkänningen.
+REGENERERA
+VERKSTÄLL
+
+Varför tillämpa det här förslaget?
+
+Jag har valt att använda en mer neutralt formulering för att undvika att förstärka ett specifikt ord."
+bob.moore24656@pharma.com,Conversation Assist,th,False,th,✅ PASS,"AI ช่วยเหลือ: ปรับปรุงการตอบกลับ 
+ เกิดข้อผิดพลาด โปรดลองอีกครั้ง"
+alice.miller25005@pharma.com,Conversation Assist,tr,False,tr,✅ PASS,"AI Yardımcı: Yanıtı Geliştir 
+Bu, yapay zekayı tetiklemek ve dil tanıma yeteneklerini doğrulamak için daha uzun bir örnek cümle olarak daha fazla bağlam sağlar.
+YENİDEN OLUŞTURUN
+UYGULA
+
+Neden bu öneri uygulansın?
+
+Cümlenin daha uzun olması, yapay zekanın daha karmaşık bir dil yapısı ile etkileşimde bulunmasını ve dil tanıma yeteneklerini daha iyi doğrulamasını sağlar."
+fiona.johnson5529@pharma.com,Conversation Assist,vi,False,vi,✅ PASS,"AI Hỗ trợ: Cải thiện phản hồi 
+Đây là một câu ví dụ dài hơn, cung cấp đủ ngữ cảnh để kích hoạt trí tuệ nhân tạo và xác minh ngôn ngữ được phát hiện.
+TẠO LẠI
+ÁP DỤNG
+
+Tại sao áp dụng gợi ý này?
+
+Sửa đổi không có trong câu này, nhưng tôi đã giữ nguyên câu như ban đầu vì nó phù hợp với yêu cầu."

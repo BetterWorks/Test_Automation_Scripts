@@ -1,0 +1,6 @@
+email,feature,expected_lang,status
+julia.davis36889@pharma.com,Goal Assist,cs,❌ ERROR
+julia.smith16586@pharma.com,Goal Assist,de,❌ ERROR
+alice.taylor33665@pharma.com,Goal Assist,en,❌ ERROR
+george.wilson15124@pharma.com,Goal Assist,en_GB,❌ ERROR
+hannah.taylor36586@pharma.com,Goal Assist,es,❌ ERROR

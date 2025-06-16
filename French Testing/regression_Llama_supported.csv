@@ -1,0 +1,14 @@
+email,feature,expected_lang,detected_lang,status,detected_text
+julia.smith16586@pharma.com,Feedback Writing Assist,de,de,✅ PASS,"Dies ist ein längeres Beispiel, das ausreichend Kontext bietet, um die KI auszulösen und die Spracherkennung zu testen."
+alice.taylor33665@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to test the AI generation feature and validate language detection capabilities.
+george.wilson15124@pharma.com,Feedback Writing Assist,en,en,✅ PASS,This is a longer sample input intended to test the AI generation feature and validate language detection capabilities.
+hannah.taylor36586@pharma.com,Feedback Writing Assist,es,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+george.brown26632@pharma.com,Feedback Writing Assist,es,en,❌ FAIL,Your input contains offensive or harmful language. Please rephrase your request.
+ethan.brown38046@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Voici une phrase exemple plus longue qui fournit un contexte suffisant pour activer l'intelligence artificielle et tester la langue.
+charlie.wilson19844@pharma.com,Feedback Writing Assist,fr,fr,✅ PASS,Ceci est une phrase d'exemple plus longue pour tester la détection de la langue de l'IA.
+diana.wilson16900@pharma.com,Feedback Writing Assist,it,it,✅ PASS,Questa è una frase di esempio più lunga che fornisce un contesto adeguato per attivare l'intelligenza artificiale e valutare la lingua.
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,unknown,API ❌ ERROR,"Error in generating response, please try again"
+george.taylor15272@pharma.com,Feedback Writing Assist,pt,unknown,❌ FAIL (Exception),"Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(""div.llm-suggestion-text-container"")
+"

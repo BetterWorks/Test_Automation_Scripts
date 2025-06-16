@@ -1,0 +1,457 @@
+name,type,parent,output,evaluation,evaluation_status
+Increase customer satisfaction score,goal,,Achieve a significant improvement in customer satisfaction score,"**Validation Result:** Pass
+
+**Goal:** Achieve a significant improvement in customer satisfaction score
+
+* Meets criteria: Starts with dynamic verb (""Achieve""), has clear context (customer satisfaction), and is concise.
+
+**Additional Suggestions:**
+To further refine the goal, consider adding specific metrics or targets for improvement (e.g., ""Increase customer satisfaction score by 15%"").
+
+The goal is well-written, action-oriented, and clearly defines what needs to be achieved. It's ready to support a meaningful project or initiative in the Haven platform!",PASS
+Improve product quality and reduce bugs,goal,,Achieve a [X]% increase in product quality and decrease bugs by [timeframe].,"**Validation Result: PASS**
+
+* Type: **Goal**
+* Reason: The goal starts with a dynamic verb (""Achieve""), is concise (9 words), and clearly defines what needs to be achieved (increase in product quality and decrease bugs). The timeframe provides a context for the achievement.
+
+No suggestions or placeholders are needed.",PASS
+Enhance onboarding experience for new employees,goal,,Develop and implement a comprehensive onboarding program to significantly improve new employee engagement and productivity within the first 90 days.,"**Validation Result:** Pass
+
+* Type: Goal
+* Dynamic verb: Develop
+* Word count: 13 (within the acceptable range)
+* Clear context: Onboarding program for new employee engagement and productivity
+* Metric suggestion: (placeholder) e.g., ""25% increase in job satisfaction ratings""",PASS
+Develop a new employee training program,goal,,Launch a comprehensive employee onboarding and professional development program,"**Goal: Pass**
+
+* Starts with dynamic verb (""Launch"")
+* Between 3-12 words (8 words)
+* Clear context of what is to be achieved (comprehensive employee onboarding and professional development program)
+* No metrics provided; suggested metric placeholder: ""Number of employees onboarded/completed training""
+
+The goal meets the organizational writing standards and assistive guidelines, providing a clear and actionable objective that aligns with the Haven platform's purpose.",PASS
+Launch marketing campaign for Q4,goal,,Initiate a comprehensive marketing campaign by Q4,"Validation Result: **PASS**
+
+**Goal Type:** Goal
+
+**Reasoning:**
+
+* The goal starts with the dynamic verb ""Initiate"".
+* The goal is concise and within the recommended word count (4 words).
+* The goal clearly describes what needs to be achieved (""a comprehensive marketing campaign"").
+* Although no specific metric is provided, a suitable placeholder metric could be ""% of target audience reached"" or ""Number of leads generated"".
+
+**Validation Summary:** A clear and actionable goal that sets out to initiate a comprehensive marketing campaign by Q4.",PASS
+Reduce churn rate by 10 percent,goal,,Achieve a 10 percent decrease in churn rate,"**Validation Result:** Pass
+
+**Reasoning:**
+
+The text ""Achieve a 10 percent decrease in churn rate"" meets the organizational writing standards and assistive guidelines for a goal:
+
+* Starts with a dynamic verb (""Achieve"")
+* Within the recommended word count (4 words)
+* Includes a clear context of what is to be achieved (decrease in churn rate)
+* No additional metric suggestions needed, as a specific metric is provided (10 percent decrease)
+
+No further improvements or suggestions are necessary for this goal.",PASS
+Build mobile app for internal use,goal,,Develop an in-house mobile application,"**Validation Result:** PASS
+
+* **Goal criteria met:**
+	+ Starts with dynamic verb: ""Develop""
+	+ Within 3-12 words: Meets the requirement
+	+ Clear context: Mobile application development
+* **No metric provided; suggested placeholder:** Number of features implemented or Estimated development time",PASS
+Increase website traffic organically,goal,,Boost organic website traffic through targeted SEO strategies,"**Validation Result:** Pass
+
+**Goal Type:** Goal
+
+* The goal starts with a dynamic verb (""Boost"").
+* The goal meets the word count criteria (6 words).
+* The goal includes a clear context of what is to be achieved (""organic website traffic"" and ""targeted SEO strategies"").
+
+No metrics are provided, but a suitable placeholder metric could be: ""by X% within Y timeframe"".
+
+The goal is actionable, specific, and logical in supporting the overall goal of increasing online visibility.",PASS
+Streamline the recruitment process,goal,,Optimize the recruitment process to reduce inefficiencies.,"**Validation Result:** Pass
+
+**Reasoning:**
+
+* The text starts with the dynamic verb ""Optimize"", meeting the action-oriented requirement for a goal.
+* The goal has 7 words, which falls within the recommended range of 3-12 words.
+* The context is clear, aiming to reduce inefficiencies in the recruitment process.
+
+**Suggested Metric Placeholder:** (Number of applicants processed per hour) or (Time-to-hire reduction percentage)
+
+The text effectively meets the organizational writing standards and assistive guidelines for a goal.",PASS
+Implement data backup strategy,goal,,Develop and implement a comprehensive data backup plan by [timeframe] to ensure [X]% data retention and reduce downtime by [Y] hours.,"Validation Result: PASS
+
+* The goal starts with the dynamic verb ""Develop"" and is action-oriented.
+* The goal includes a clear context of what is to be achieved, specifying data retention and downtime reduction.
+* No additional suggestions for metrics as they seem sufficient.
+
+Note: The given timeframe ""[timeframe]"" should ideally include an actual date or time interval (e.g., ""by June 15th"" or ""within the next quarter"") to further refine the goal.",PASS
+Improve,goal,,Enhance,"**Validation Result: Fail**
+
+* Reason: The text ""Enhance"" is too vague and lacks clarity on what specifically needs to be enhanced or achieved.
+
+Suggested Revisions:
+
+1. **Goal:** ""Enhance customer satisfaction by [insert metric placeholder]""
+2. **Milestone:** ""Release software update v[version] with improved performance metrics ([metric placeholder])""
+
+To pass, the text should clearly describe an action-oriented goal or a specific milestone that can be measured and tracked.",PASS
+Improve customer experience with timely updates and frequent communication across departments,goal,,Enhance customer satisfaction through regular and transparent updates and frequent interdepartmental communication,"**Validation Result:** Pass
+
+Here's why:
+
+* The goal starts with a dynamic verb (""Enhance"") and meets the word count requirement (12 words).
+* The goal clearly states what is to be achieved (customer satisfaction) and provides context for regular updates and interdepartmental communication.
+* No metrics are provided, but adding a metric placeholder like ""Increase customer satisfaction rating by X%"" would further specify the goal.
+
+This goal is well-written, action-oriented, and clearly defines what needs to be achieved.",PASS
+Customer satisfaction increase,goal,,Achieve a [X]% increase in customer satisfaction within the next [timeframe] months.,"**Validation Result:** PASS
+
+* Goal meets criteria: starts with dynamic verb (""Achieve""), includes context, and is concise (11 words).
+* Suggested metric placeholder: ""25%"" (to provide a specific target for customer satisfaction increase).
+
+Note: The goal is clear, actionable, and measurable, making it suitable for the Haven platform.",PASS
+Productivity enhancement,goal,,Improve productivity by [X]% within the next [timeframe],"Validation Result: PASS
+
+* Goal starts with dynamic verb ""Improve""
+* Context provided for what is to be achieved (""productivity"")
+* Suggests measurable metric placeholder ""[X]%""
+
+Note: The goal meets all the organizational writing standards and assistive guidelines. The only suggestion made was to include a specific percentage value in place of [X] to make the goal more concrete.",PASS
+Define a goal that is meaningful and fits in the given word count and also makes sense to the user reading it,goal,,Establish a comprehensive training program to equip 80% of the staff with essential skills within the next 12 months.,"**Validation Result:** Pass
+
+* Reason: The text meets all criteria for a **goal**: 
+	+ Starts with dynamic verb ""Establish""
+	+ Between 3-12 words
+	+ Clearly states what is to be achieved (comprehensive training program)
+	+ Optional use of custom organizational terms (""staff"", ""essential skills"")
+
+No metric placeholder suggested, as the goal already mentions a specific timeframe (12 months).",PASS
+Start,goal,,Initiate,"**Validation Result: FAIL**
+
+* Reason: The text ""Initiate"" is too vague and does not meet the criteria for either **goal** or **milestone** types.
+
+As a goal, it lacks a dynamic verb, clear context, and specific metrics.
+
+As a milestone, it is not actionable, specific, or measurable, and does not logically support its parent goal.
+
+**Suggested Improvement:** Rewrite to create a clear and measurable goal or milestone. For example: ""Launch New Product Initiative"" or ""Complete Phase 1 Development by Q2, tracked by user adoption metrics.""",FAIL
+Finish project,goal,,Complete the project by [timeframe],"**Validation Result:** FAIL
+
+**Reason:** The text does not meet the organizational writing standards and assistive guidelines for a goal or milestone.
+
+* As it is, the text lacks dynamic action-oriented verbs and context about what needs to be achieved. It only provides a timeframe without clear objectives.
+* To become a valid goal, consider rephrasing it with a dynamic verb like ""Achieve project completion by [timeframe]"" or ""Finish project development within [timeframe].""
+* Alternatively, this text could be rewritten as a milestone by adding specific measurable metrics and making the description more actionable. For example: ""Release project v1.0 with at least 80% user adoption rate by [timeframe].""
+
+To pass, please revise the text to meet the goal or milestone criteria, ensuring it is clear, specific, and measurable.",PASS
+Goal without proper format,goal,,"Within the next 6 months, increase the number of new customers acquired by at least 25%.","**PASS**
+
+The text meets the organizational writing standards and assistive guidelines for a **goal**:
+
+* The goal starts with a dynamic verb (""increase"").
+* The goal is concise, within the recommended 3-12 words (6 words).
+* The goal includes a clear context of what is to be achieved (""number of new customers acquired"").
+* No metric placeholder needed, as ""at least 25%"" meets this requirement.
+
+The text effectively sets a measurable and achievable target for customer acquisition, aligning with organizational goals.",PASS
+Establish remote work policy,goal,,Develop and implement a comprehensive remote work policy,"**Validation Result:** Pass
+
+**Goal Type:** Goal
+
+**Validation Criteria:**
+
+* The goal starts with a dynamic verb: **Develop and implement**
+* The goal is between 3 and 12 words: Meets criteria
+* The goal includes a clear context of what is to be achieved: ""comprehensive remote work policy""
+* Suggested metric placeholder: (e.g., % employee satisfaction, # remote workers supported)
+
+**Additional Feedback:** The goal is well-defined and actionable. Consider adding specific metrics to measure the success of the policy's implementation, such as increased productivity or reduced turnover rates.",PASS
+Optimize CI pipeline,goal,,Reduce CI pipeline execution time by [X]% within the next [timeframe],"**Validation Result:** Pass
+
+* The text starts with a dynamic verb (""Reduce"") and is action-oriented, meeting the goal criteria.
+* The goal has a clear context of reducing CI pipeline execution time within a specified timeframe.
+* No additional suggestions for metrics were needed.
+
+No further modifications or placeholder suggestions are required. The goal meets the organizational writing standards and assistive guidelines.",PASS
+Generate monthly reports,goal,,Produce monthly reports by [date] for [manager/stakeholder],"**Validation Result: Pass**
+
+The text meets both **goal** and organizational writing standards.
+
+* The goal starts with a dynamic verb (""Produce"").
+* The goal is concise (7 words).
+* The goal includes a clear context of what needs to be achieved (monthly reports for [manager/stakeholder]).
+* No metrics are provided, but the report's content can be adapted based on specific organizational terms and requirements.
+
+No changes or suggestions are required.",PASS
+Drive cultural transformation,goal,,Accelerate organizational cultural transformation,"**Validation Result:** Pass
+
+**Goal Analysis:**
+
+* The goal starts with a dynamic verb (""Accelerate"").
+* The goal is concise and within the recommended 3-12 word range.
+* The goal provides a clear context for cultural transformation.
+
+**Additional Suggestion:** Consider adding a metric placeholder, such as ""by increasing employee engagement by X%,"" to measure progress towards this goal.",PASS
+Conduct user research interviews,milestone,Increase customer satisfaction score,Conduct in-depth user research interviews with [X] participants,"**Validation Result: Pass**
+
+* Reason: The milestone meets the organizational writing standards and assistive guidelines.
+* Rationale:
+	+ Milestone is actionable and specific, clearly describing an action to be taken (""Conduct in-depth user research interviews"").
+	+ At least one measurable metric is implied (number of participants ""[X]""), which supports the parent goal.
+	+ The milestone logically aligns with its parent goal by providing a clear step towards achieving the desired outcome.
+
+No additional metrics or placeholder suggestions are needed.",PASS
+Launch beta version with core features,milestone,Improve product quality and reduce bugs,Release initial beta version with key functionalities,"**Milestone**
+
+Pass: The milestone is specific and actionable, describing a concrete action (""Release initial beta version"").
+
+ Fail: No measurable metric is defined or implied.
+
+Suggested metric placeholder: ""Number of users"" or ""Percentage of functional features""
+
+Overall evaluation: The milestone meets the criteria for specificity and actionability but lacks a measurable metric.",PASS
+Track weekly user activity,milestone,Increase website traffic organically,Monitor weekly user engagement metrics,"**Milestone**
+
+* Pass: The milestone is actionable (""Monitor"") and specific, describing an action to be taken.
+* Suggested metric placeholder: e.g., ""users per week"", ""% increase in engagement"" (to provide a measurable outcome).
+* Alignment with parent goal: Unclear; the milestone should logically support or align with its parent goal.",PASS
+Finalize UI design and documentation,milestone,Develop a new employee training program,Complete and finalize the UI design and documentation,"**Validation Result:** Pass
+
+* **Goal**: The milestone is actionable and specific, clearly describing an action to be taken (""Complete and finalize"").
+* **Metric**: No metric provided, but a suitable placeholder could be ""by [date]"" or ""within [number] iterations"".
+* **Alignment**: The milestone logically supports its parent goal (completing UI design and documentation) by achieving a tangible outcome.
+
+The text meets the milestone criteria: it is actionable, specific, and provides a clear context for what needs to be achieved.",PASS
+Release version 1.0,milestone,Build mobile app for internal use,Launch the initial version 1.0,"**Milestone**: Pass
+
+* The text is actionable and specific, clearly describing an action to be taken (""Launch"").
+* At least one measurable metric is implied (the initial version 1.0), which can be tracked or measured.
+
+No further suggestions or placeholders are needed. The milestone logically supports its parent goal by providing a concrete target for achievement.",PASS
+Setup project repository and CI/CD,milestone,Implement data backup strategy,Establish project repository and implement Continuous Integration and Continuous Deployment (CI/CD),"**Milestone**: PASS
+
+* Actionable and specific: Establish project repository and implement CI/CD
+* Measurable metric implied: (e.g., number of commits, deployment frequency)
+* Logically supports parent goal: (assuming the goal is to manage a software development project)
+
+No further suggestions for placeholder metrics as the milestone already implies measurable outcomes. The text is clear, specific, and actionable, making it a suitable milestone in the Haven platform.",PASS
+Publish blog post with success metrics,milestone,Launch marketing campaign for Q4,"Launch blog post with [X] views, [Y]% engagement, and [timeframe] ROI","**Validation Result:** Pass
+
+* Reason: The milestone meets the organizational writing standards and assistive guidelines.
+* Strengths:
+	+ The milestone is actionable (""Launch blog post"") and specific about what needs to be done.
+	+ It includes measurable metrics (views, engagement, ROI) that provide a clear indication of success.
+
+**Suggestions:** None",PASS
+Create analytics dashboard,milestone,Streamline the recruitment process,Launch a comprehensive analytics dashboard,"**Validation Result:** Pass
+
+**Reason:**
+
+* The text starts with a dynamic verb (""Launch"") and is within the recommended word count range (1-2 words).
+* The goal provides a clear context of what is to be achieved (launching a comprehensive analytics dashboard), using custom organizational terms.
+* No metrics are provided, but it's not necessary for a goal statement. A suitable placeholder metric could be ""Data accuracy"" or ""User engagement"".
+
+**Note:** Since this text is labeled as a **goal**, I've evaluated it against the goal validation criteria. If you intended this to be a **milestone**, please provide more context and measurable metrics to support the action described in the milestone.",PASS
+Host stakeholder feedback session,milestone,Enhance onboarding experience for new employees,Conduct a stakeholder feedback session,"**Milestone**
+
+Pass: The text is specific and actionable, clearly describing an action to be taken.
+
+The milestone logically supports its parent goal (conducting a stakeholder feedback session likely aligns with the overall goal of gathering input or improving relationships).
+
+**Suggested Metric:** Number of stakeholders engaged/feedback collected",PASS
+Review legal and compliance items,milestone,Drive cultural transformation,Conduct a thorough review of legal and compliance items,"**Validation Result:** PASS
+
+* **Reasoning:**
+	+ As a milestone, it meets the criteria:
+		- It's actionable and specific (clearly describes an action to be taken).
+		- It implies a measurable metric (compliance items can be reviewed and counted).
+	+ The milestone logically supports or aligns with its parent goal (conducting a thorough review is necessary for achieving compliance).
+
+**Suggested Metric Placeholder:** Number of legal/compliance items reviewed",PASS
+Milestone name with no action,milestone,Reduce churn rate by 10 percent,Achievement of [X] years of operational excellence in the [industry/field] sector.,"**Milestone**
+
+Pass
+
+* Milestone is actionable and specific: ""Achievement of [X] years"" implies reaching a certain milestone in operational excellence.
+* Measurable metric: ""[X]"" suggests a measurable achievement (e.g., number of years).
+* Logical alignment with parent goal: The milestone describes a tangible outcome that supports the overall goal of achieving operational excellence.
+
+No further suggestions for placeholder metrics are needed.",PASS
+Review,milestone,Customer satisfaction increase,Achieve,"**Milestone**
+
+* Pass: Milestone is actionable and specific (""Achieve"" clearly describes an action).
+* Fail: No measurable metric defined or implied.
+
+Suggested placeholder metric: ""by [specific date]"".
+
+The milestone does not meet the criteria because it lacks a clear measure of achievement. To pass, a measurable metric should be added to describe what ""achieving"" entails.",PASS
+Just a milestone without context or metrics,milestone,Productivity enhancement,Achieved [milestone] with significant impact,"**Validation Result: Fail**
+
+* The text does not meet the milestone criteria:
+	+ No specific action is described, making it unclear what needs to be taken.
+	+ No measurable metric is defined or implied.
+
+**Suggested Revisions:**
+
+To convert this to a valid milestone, consider rephrasing it to include a clear action and metric. For example:
+
+* ""Achieved [milestone] by completing 80% of project tasks on time.""
+* ""Reached [milestone] with a 25% increase in team productivity.""
+
+Please revise the text according to these suggestions or provide more context for me to better assist you.",FAIL
+123456,milestone,Optimize CI pipeline,"Achieve 123,456 milestones","**MILESTONE**: FAIL
+
+* Reason: The milestone is too vague and does not provide a specific action to be taken.
+* Suggested improvement: Replace ""123,456 milestones"" with a descriptive action, such as ""Reach 10,000 user sign-ups for our new platform"" or ""Complete development of 5 major product features"".
+* Metric placeholder suggestion: Instead of a numerical value, consider using a metric like ""% complete"" or ""Number of completed tasks"".",FAIL
+🚀 Launch,milestone,Finish project,Successfully deploy,"**Validation Result: Fail**
+
+* Reason: The milestone is not specific enough and lacks measurable metrics.
+
+The text ""Successfully deploy"" does not provide enough context or clarity on what needs to be deployed or where. It's too general and doesn't meet the requirements for a milestone.
+
+Suggested improvement:
+
+* Specify what needs to be deployed (e.g., ""Deploy new product features"").
+* Add measurable metrics, such as ""Release 95% of planned functionality by Q2"".
+
+Example rewritten milestone:
+""Deploy new product features with 95% of planned functionality by Q2.""",FAIL
+Reiterate and reiterate and reiterate the old steps again,milestone,Goal without proper format,Revisit and thoroughly review the original steps once more,"**Milestone**
+
+Pass.
+
+* Reason: The milestone is actionable and specific, clearly describing an action to be taken (""Revisit and thoroughly review"").
+* Suggested metric placeholder: ""Number of steps reviewed"" or ""Percentage of steps revised"".",PASS
+Collaborate,milestone,Start,Partner effectively,"**Milestone**
+
+Pass: The milestone is actionable and specific (""Partner effectively""). 
+
+* Metric placeholder suggestion: # of successful partnerships or % increase in collaborative projects.
+
+Explanation: The milestone is clear about the action to be taken (partnering), and it logically supports its parent goal (enhancing collaboration).",PASS
+Conduct and analyze and finalize user and system feedback from beta to improve the final version before going live,milestone,Improve customer experience with timely updates and frequent communication across departments,Finalize user and system feedback analysis from beta to improve the final version before launch,"**Milestone**
+
+Pass: The milestone is specific and actionable (""Finalize user and system feedback analysis"").
+
+However, it would benefit from including a measurable metric or a suitable placeholder metric (e.g., ""by [date]"" or ""% of users"").",PASS
+Validate user feedback with surveys,milestone,Generate monthly reports,Launch a comprehensive survey to verify user satisfaction and opinions.,"**Validation Result:** PASS
+
+**Why:**
+
+* The milestone ""Launch a comprehensive survey to verify user satisfaction and opinions"" is actionable and specific, clearly describing an action to be taken (launching a survey).
+* At least one measurable metric is implied, as the goal is to ""verify user satisfaction,"" suggesting that metrics such as user satisfaction ratings or open-ended feedback would be collected.
+* The milestone logically supports or aligns with its parent goal (not provided), as launching a comprehensive survey can provide valuable insights into user opinions and satisfaction.
+
+**Suggested Placeholder Metric:** User Satisfaction Rating (%)",PASS
+Perform load testing on staging,milestone,Build mobile app for internal use,Conduct thorough load testing on the staging environment,"**Validation Result:** Pass
+
+* Reason: The milestone ""Conduct thorough load testing on the staging environment"" is actionable and specific, clearly describing an action to be taken (load testing). It also implies a measurable metric (success/failure of load testing) and logically supports its parent goal.
+
+No additional metrics or placeholders suggested, as the milestone provides sufficient context.",PASS
+Document all APIs,milestone,Implement data backup strategy,Develop and document comprehensive APIs,"**Validation Result:** Pass
+
+* Type: **Milestone**
+* Reasoning: The milestone is actionable and specific (""Develop and document comprehensive APIs""), providing a clear description of the action to be taken. At least one measurable metric is implied (comprehensive APIs), which can be quantified through metrics like API documentation completeness or API stability ratings.
+* Suggested placeholder metric: None needed, as the milestone's metric is implicit.
+
+The milestone logically supports its parent goal by contributing to the overall achievement of well-defined and documented APIs.",PASS
+Train support team,milestone,Enhance onboarding experience for new employees,Launch comprehensive training program for support team,"**Validation Result:** Pass
+
+* **Goal criteria:**
+	+ Dynamic verb: ""Launch"" (action-oriented)
+	+ Context provided: Clear training program for support team
+	+ No metric specified; suggested placeholder: ""by [Date]""
+* **Milestone criteria:**
+	+ Actionable and specific: Describes a clear action to launch the training program
+	+ Measurable metric implied: Completion of the training program (e.g., number of support team members trained)
+	+ Logical alignment with parent goal (launching the training program supports achieving a comprehensive support system)
+
+Overall, this milestone meets the organizational writing standards and assistive guidelines.",PASS
+Increase user retention and reduce acquisition cost,goal,,Boost user retention and slash acquisition cost,"**Validation Result:** Pass
+
+**Reasoning:**
+
+* The text starts with the dynamic verb ""Boost"", which meets the action-oriented verb criteria for a **goal**.
+* The goal statement is concise and within the recommended 3-12 word limit.
+* The context is clear, aiming to improve user retention while reducing acquisition costs.
+* No metrics are provided, but the language suggests that metrics could be added to quantify these objectives.
+
+No additional suggestions or placeholders needed. The goal meets the organizational writing standards and assistive guidelines for a well-crafted **goal**.",PASS
+Improve team communication,goal,,Enhance team collaboration by implementing regular video meetings.,"**Validation Result:** PASS
+
+* **Goal criteria:**
+	+ Starts with action-oriented verb (""Enhance"")
+	+ Clear context of what is to be achieved (team collaboration)
+	+ Optional organizational terms (none used here)
+* No metric provided, but a suitable placeholder could be ""number of team meetings"" or ""% increase in team satisfaction""
+
+The goal is concise and clearly articulates the objective of enhancing team collaboration through regular video meetings.",PASS
+Launch,goal,,Initiate,"**Fail**
+
+The text ""Initiate"" does not meet the organizational writing standards and assistive guidelines for both **goal** and **milestone** types.
+
+As a goal, it does not start with a dynamic verb, lacks context, and is too short. A suggested metric placeholder could be ""% Complete"".
+
+As a milestone, it is not specific or actionable, and no measurable metric is defined. To meet these criteria, I would suggest rephrasing the text to include a clear action and a relevant metric, such as ""Complete project planning by [date] with 80% stakeholder buy-in"".",FAIL
+Complete documentation and conduct review and gather feedback and close project,goal,,"Finalize documentation, conduct thorough review, gather feedback, and conclude the project.","**Validation Result:** Pass
+
+The text meets the organizational writing standards and assistive guidelines for both **goal** and **milestone** types.
+
+* For **goal**, it starts with a dynamic verb (""Finalize""), is within the 3-12 word limit (6 words), and clearly describes the action to be taken.
+* For **milestone**, it's actionable and specific, describing an action to be taken. Although no metric is provided, the milestone logically supports its parent goal.
+
+No suggested placeholder metrics are needed in this case.",PASS
+Build and release,goal,,Develop and deploy,"**Evaluation Result:** Pass
+
+* **Goal criteria met:**
+	+ Starts with dynamic verb (""Develop"")
+	+ Meets word count (4 words)
+	+ Includes clear context of what to be achieved (deploying something)
+
+**No metric provided; suggesting a placeholder:**
+Use ""by [date]"" or ""within [timeframe]"" as a placeholder, e.g., ""Deploy and deploy by Q2 2023""",PASS
+Launch campaign 🚀,goal,,Initiate a comprehensive marketing campaign,"**Evaluation Result:** PASS
+
+* The text starts with the dynamic verb ""Initiate"", meeting the action-oriented requirement.
+* The goal is concise and within the recommended 3-12 words (6 words in this case).
+* The context is clear: a comprehensive marketing campaign is to be initiated, but no specific metric is provided.
+* Suggested placeholder metric: ""Successful campaign metrics will include [X% increase in website traffic]"".
+
+The text meets the organizational writing standards for a goal.",PASS
+Gather and interpret data from A/B testing,milestone,Increase user retention and reduce acquisition cost,Analyze and interpret results from A/B testing,"**Validation Result: Pass**
+
+Reason:
+
+* The milestone starts with a dynamic verb ""Analyze"" and is specific about the action to be taken.
+* At least one measurable metric (""results from A/B testing"") is defined or implied.
+* The milestone logically supports its parent goal (assuming it's part of a broader experimentation process).
+
+Suggested improvement: None needed.",PASS
+Finalize hiring strategy,milestone,Improve team communication,Implement comprehensive hiring plan by [date],"**Milestone**
+
+Pass: The milestone is actionable and specific, clearly describing an action to be taken (""Implement comprehensive hiring plan"").
+
+Fail: No measurable metric is defined or implied. Suggested placeholder metric: ""Number of new hires made by [date]"" or ""Hiring process completion rate"". 
+
+The milestone logically supports its parent goal (comprehensive hiring plan).",PASS
+Launch MVP,milestone,Build and release,Successfully deploy initial product version,"**Validation Result:** Pass
+
+* **Goal criteria:**
+	+ Starts with dynamic verb: Yes (Successfully deploy)
+	+ Between 3-12 words: Yes (4 words)
+	+ Clear context: Yes (deploys initial product version)
+* **Milestone criteria:**
+	+ Actionable and specific: Yes (clearly describes an action to be taken)
+	+ Measurable metric defined or implied: Yes (deployment of a product version implies a measurable outcome)
+
+No suggested placeholder metrics needed. The milestone logically supports the parent goal by achieving the initial deployment of the product, which is a critical step towards its successful adoption.",PASS
+Conduct internal audit,milestone,Optimize CI pipeline,Conduct a thorough internal audit,"**Validation Result: Pass**
+
+* Type: **Milestone**
+* Reason: The milestone is actionable and specific (""Conduct a thorough internal audit""), aligns logically with its parent goal (assuming an organizational goal), and implies measurable metrics (e.g., number of areas audited, severity of findings).",PASS
