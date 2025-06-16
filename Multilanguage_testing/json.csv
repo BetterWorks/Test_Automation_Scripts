@@ -1,0 +1,11 @@
+Summary,Description,Type,Priority
+"Functional Test - Create, edit, delete prompts","Validate the ability to create, edit, and delete prompts in the prompt management system.","Functional","High"
+"Functional Test - View and rollback prompt versions","Verify the system allows viewing version history and rolling back to previous versions.","Functional","High"
+"Functional Test - Validate prompt retrieval for features","Ensure correct prompts are retrieved and applied for Goal Assist and Writing Assistant.","Functional","Medium"
+"Security Test - Test access restrictions","Validate that only authorized users can manage prompts.","Security","High"
+"Security Test - Verify audit trail logs","Ensure all prompt modifications are recorded accurately in audit logs.","Security","Medium"
+"Performance Test - Evaluate handling of large datasets","Test the system's performance when managing 10,000+ prompts.","Performance","High"
+"Regression Test - Goal Assist with updated prompts","Verify Goal Assist functionality after prompt updates.","Regression","High"
+"Regression Test - Writing Assistant with updated prompts","Test Writing Assistant's output accuracy with updated prompts.","Regression","High"
+"Accessibility Test - Check screen reader compatibility","Validate the UI's compatibility with screen readers.","Accessibility","Medium"
+"Accessibility Test - Validate keyboard navigation","Ensure all functionality is accessible via keyboard navigation.","Accessibility","Medium"
