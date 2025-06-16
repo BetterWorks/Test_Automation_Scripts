@@ -1,0 +1,4 @@
+name,is_active,parent
+Regulatory Affairs,True,
+Research and Development,True,
+Quality Assurance,True,Research and Development
